@@ -194,66 +194,19 @@ The resulting findings are translated into operational considerations such as **
 Because the dataset is synthetic, these findings represent **analytical scenarios rather than claims about actual Kent fly-tipping activity**.
 
 ---
+## Skill Demonstrated
 
-# Skills Demonstrated
+| Data Analytics         | Data Cleaning & Transform | SQL Analysis     | Power BI             | DAX Measures         |
+| ---------------------- | --------------------------|------------------|----------------------|----------------------|
+| EDA                    | Power Query               | Aggregation      | Star-Schema Modelling| `CALCULATE`,`FILTER` | 
+| Trend Analysis         | Data Profiling            | Joins            | Interactive Dashbards| `SUMX`,`TOPN`,`COUNT`|
+| Hotspot Analysis       | Duplicate data detection  | CTEs             | Column & Measures    | `DISTINCTCOUNT`      |
+| Pattern Identification | Missing value handling    | Window functions | Visuals and Filters  | Time intelligence    |
+| KPI Development        | Data Validation           | Ranking          | Trend Analysis       | Ranking              |
+| Intelligence Gap       | Data Transformation       | Nested Data      | SQL Server Connect   | YoY analysis         |
 
-### Data Analytics
 
-* Exploratory Data Analysis
-* Trend Analysis
-* Geographic Analysis
-* Hotspot Analysis
-* Pattern Identification
-* KPI Development
-* Intelligence Gap Analysis
-
-### Data Cleaning & Transformation
-
-* Power Query
-* Data profiling
-* Duplicate detection
-* Missing-value handling
-* Data standardisation
-* Data validation
-* Data transformation
-
-### SQL
-
-* Aggregations
-* Joins
-* CTEs
-* Window functions
-* Trend analysis
-* Ranking
-* Data-quality validation
-* Intelligence analysis
-
-### Power BI
-
-* Star-schema modelling
-* Relationship management
-* Interactive dashboards
-* KPI cards
-* Maps
-* Trend analysis
-* Decomposition analysis
-* Matrix/heatmap analysis
-* Drill-down and filtering
-
-### DAX
-
-* `CALCULATE`
-* `FILTER`
-* `SUMX`
-* `TOPN`
-* `DISTINCTCOUNT`
-* Time intelligence
-* YoY analysis
-* Percentage calculations
-* Ranking
-* Context-aware measures
-
-### Intelligence Analysis
+## Intelligence Analysis
 
 * Intelligence-led decision support
 * Hotspot identification
@@ -263,60 +216,37 @@ Because the dataset is synthetic, these findings represent **analytical scenario
 * Operational prioritisation
 * Strategic reporting
 
-### Stakeholder Communication
-
-The project demonstrates the ability to translate complex datasets into **clear, concise intelligence that can support operational teams, enforcement managers and strategic decision-makers**.
-
 ---
 
 # Project Structure
 
 ```text
-Kent-Fly-Tipping-Intelligence-Analytics
+FlyTipping-Intelligence-Analytics
 │
 ├── README.md
 │
 ├── 01_Raw_Data
 │   ├── FlyTipIncidents.csv
-│   ├── EnforcementCases.csv
-│   ├── IntelligenceReports.csv
+│   ├── FactEnforcementCases.csv
+│   ├── FactIntelligenceReport.csv
 │   └── ReferenceData.csv
 │
-├── 02_Data_Cleaning
-│   ├── Power_Query_Steps.md
-│   └── Data_Quality_Report.xlsx
-│
 ├── 03_SQL
-│   ├── 01_Data_Validation.sql
-│   ├── 02_Hotspot_Analysis.sql
-│   ├── 03_Trend_Analysis.sql
-│   ├── 04_Enforcement_Intelligence.sql
-│   └── 05_Intelligence_Gaps.sql
+│   ├── SQL_Analysis.sql
 │
 ├── 04_PowerBI
-│   └── Kent_FlyTipping_Intelligence.pbix
+│   └── FlyTipping_Intelligence.pbix
 │
-├── 05_Reports
-│   └── Intelligence_Briefing.pdf
-│
-└── 06_Documentation
-    ├── Data_Dictionary.xlsx
-    ├── Methodology.md
-    └── Assumptions.md
-```
+└── 05_Reports
+    └── Intelligence_Briefing.pdf
 
----
+```
 
 ## Tools Used
 
-**SQL Server | Power Query | Power BI | DAX | Excel | GitHub**
+**SQL Server | Power Query | Power BI | DAX | Excel | GitHub | Prompt Engineering | AI tools (Perplexity, OpenAI, ChatGPT,Gemini)**
 
 ---
 
-## Project Outcome
-
-The completed project demonstrates an end-to-end analytical workflow:
-
-> **Raw Data → Data Quality → Transformation → SQL Intelligence → BI Modelling → DAX → Visualisation → Intelligence → Operational Insight**
-
-The emphasis is not simply on producing a Power BI dashboard, but on demonstrating how **data can be transformed into structured intelligence to support evidence-based operational and strategic decision-making.**
+### **DISCLAIMER:** 
+All data used in this project is synthetic and created solely for portfolio and demonstration purposes. It does not represent actual Kent Council enforcement data, real individuals, vehicles, cases or locations.
