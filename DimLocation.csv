@@ -1,0 +1,1489 @@
+﻿1,LOC163,K003,Dartford South,Rural Road,Empty,Yes,Poor,3,Easy,Critical
+2,LOC062,K004,Dover North,Canal/river side,Thick,Yes,No light,3,Not Possible,Critical
+3,LOC004,K012,Folkestone & Hythe South,Lay-by,Medium,No,No light,16,Not Possible,Critical
+4,LOC026,K012,Folkestone & Hythe West,Industrial estate,Empty,Yes,Poor,19,Difficult,High
+5,LOC011,K007,Sevenoaks East,Industrial estate,Low,Yes,Good,14,Not Possible,Low
+6,LOC026,K009,Thanet East,Residential street,Low,Yes,Poor,1,Easy,Critical
+7,LOC189,K004,Dover North,Woodland,Low,Yes,Poor,6,Difficult,Critical
+8,LOC086,K005,Gravesham West,Car park,Low,No,No light,12,Not Possible,High
+9,LOC171,K006,Maidstone West,Commercial area,Thick,Yes,No light,4,Difficult,Critical
+10,LOC041,K007,Sevenoaks South,Residential street,Thick,Yes,No light,5,Difficult,High
+11,LOC035,K008,Swale North,Construction area,Thick,Yes,Poor,2,Difficult,High
+12,LOC115,K009,Thanet West,Commercial area,Thick,Yes,Good,12,Difficult,High
+13,LOC192,K005,Gravesham West,Canal/river side,Low,Yes,No light,3,Difficult,Low
+14,LOC024,K012,Folkestone & Hythe West,Rural road,Empty,No,Poor,8,Difficult,Low
+15,LOC161,K009,Thanet East,Car park,Thick,No,Poor,1,Not Possible,Low
+16,LOC093,K007,Sevenoaks North,Industrial estate,Low,No,No light,7,Difficult,Low
+17,LOC041,K006,Maidstone East,Car park,Medium,Yes,No light,6,Not Possible,Critical
+18,LOC105,K001,Ashford West,Lay-by,Thick,Yes,No light,11,Difficult,Critical
+19,LOC018,K004,Dover North,Lay-by,Thick,Yes,Poor,15,Difficult,Critical
+20,LOC176,K009,Thanet South,Canal/river side,Empty,No,Poor,13,Not Possible,Low
+21,LOC183,K005,Gravesham South,Commercial area,Medium,No,Poor,1,Difficult,Critical
+22,LOC134,K009,Thanet West,Residential street,Empty,No,No light,3,Not Possible,High
+23,LOC105,K003,Dartford East,Industrial estate,Thick,No,Good,11,Easy,Low
+24,LOC048,K012,Folkestone & Hythe North,Industrial estate,Thick,No,No light,8,Not Possible,Critical
+25,LOC173,K001,Ashford West,Rural road,Low,No,No light,2,Easy,Critical
+26,LOC160,K004,Dover East,Woodland,Empty,Yes,No light,12,Not Possible,High
+27,LOC126,K005,Gravesham North,Residential street,Thick,Yes,Good,1,Easy,Low
+28,LOC036,K001,Ashford East,Woodland,Empty,No,Good,16,Easy,High
+29,LOC173,K008,Swale West,Construction area,Thick,No,Good,1,Not Possible,Low
+30,LOC011,K006,Maidstone West,Construction area,Low,Yes,Poor,12,Easy,High
+31,LOC186,K006,Maidstone South,Construction area,Thick,No,Good,2,Easy,Critical
+32,LOC008,K008,Swale North,Rural Road,Medium,Yes,Good,19,Easy,Low
+33,LOC072,K007,Sevenoaks North,Industrial estate,Thick,No,No light,17,Difficult,High
+34,LOC015,K009,Thanet South,Woodland,Empty,No,No light,15,Difficult,Critical
+35,LOC045,K001,Ashford North,Construction area,Empty,No,Poor,17,Easy,Critical
+36,LOC056,K005,Gravesham North,Construction area,Empty,No,Poor,6,Difficult,Critical
+37,LOC149,K006,Maidstone South,Commercial area,Medium,No,No light,17,Difficult,Low
+38,LOC039,K009,Thanet East,Lay-by,Medium,Yes,Poor,8,Difficult,High
+39,LOC115,K005,Gravesham South,Lay-by,Medium,Yes,Good,10,Easy,High
+40,LOC048,K002,Canterbury North,Industrial estate,Medium,No,Poor,13,Not Possible,High
+41,LOC091,K002,Canterbury East,Car park,Low,No,No light,1,Not Possible,Low
+42,LOC075,K010,Tonbridge & Malling North,Car park,Low,Yes,Poor,2,Easy,Low
+43,LOC089,K012,Folkestone & Hythe South,Residential street,Low,Yes,Poor,2,Not Possible,Low
+44,LOC017,K011,Tunbridge Wells South,Industrial estate,Thick,No,Good,19,Easy,Low
+45,LOC123,K003,Dartford South,Industrial estate,Medium,Yes,Poor,14,Not Possible,Low
+46,LOC003,K006,Maidstone North,Residential street,Empty,No,No light,5,Not Possible,Low
+47,LOC120,K005,Gravesham East,Rural Road,Medium,Yes,Good,4,Not Possible,Critical
+48,LOC065,K007,Sevenoaks North,Industrial estate,Thick,No,Poor,18,Easy,Low
+49,LOC031,K002,Canterbury North,Canal/river side,Thick,No,Poor,18,Easy,Low
+50,LOC041,K007,Sevenoaks North,Woodland,Medium,Yes,Poor,8,Easy,High
+51,LOC039,K003,Dartford East,Car park,Empty,No,Good,11,Not Possible,Low
+52,LOC129,K010,Tonbridge & Malling South,Construction area,Empty,Yes,Poor,16,Difficult,High
+53,LOC127,K003,Dartford North,Car park,Medium,Yes,Poor,5,Easy,Critical
+54,LOC038,K009,Thanet North,Canal/river side,Medium,No,Good,7,Not Possible,Critical
+55,LOC153,K008,Swale North,Canal/river side,Thick,Yes,No light,11,Difficult,Critical
+56,LOC125,K001,Ashford East,Rural road,Empty,No,Poor,20,Not Possible,High
+57,LOC184,K011,Tunbridge Wells South,Industrial estate,Low,No,Good,9,Easy,Low
+58,LOC064,K005,Gravesham East,Commercial area,Empty,No,No light,17,Easy,Low
+59,LOC056,K002,Canterbury East,Woodland,Medium,Yes,Good,14,Not Possible,Low
+60,LOC049,K012,Folkestone & Hythe West,Commercial area,Thick,No,Good,17,Difficult,High
+61,LOC087,K004,Dover East,Woodland,Medium,No,Poor,18,Not Possible,High
+62,LOC184,K002,Canterbury East,Rural road,Empty,Yes,Poor,12,Easy,Low
+63,LOC198,K008,Swale South,Residential street,Low,Yes,Poor,13,Difficult,Critical
+64,LOC055,K006,Maidstone South,Construction area,Low,Yes,Poor,18,Easy,High
+65,LOC029,K001,Ashford South,Residential street,Low,No,Poor,19,Not Possible,Low
+66,LOC014,K004,Dover East,Commercial area,Thick,No,No light,17,Difficult,Low
+67,LOC079,K009,Thanet East,Lay-by,Low,No,Good,9,Difficult,High
+68,LOC192,K012,Folkestone & Hythe South,Construction area,Thick,Yes,Good,14,Not Possible,High
+69,LOC075,K004,Dover West,Rural Road,Medium,Yes,Good,15,Difficult,Low
+70,LOC131,K011,Tunbridge Wells South,Industrial estate,Medium,Yes,Poor,2,Difficult,High
+71,LOC028,K006,Maidstone West,Woodland,Thick,Yes,Good,12,Difficult,Low
+72,LOC057,K007,Sevenoaks North,Residential street,Thick,Yes,Good,18,Easy,Critical
+73,LOC036,K005,Gravesham North,Commercial area,Medium,Yes,No light,20,Easy,High
+74,LOC193,K003,Dartford South,Commercial area,Low,No,Good,6,Difficult,Critical
+75,LOC173,K006,Maidstone North,Construction area,Empty,Yes,Good,4,Not Possible,Low
+76,LOC167,K011,Tunbridge Wells West,Construction area,Empty,Yes,No light,18,Difficult,High
+77,LOC115,K002,Canterbury West,Commercial area,Empty,No,Poor,9,Difficult,Low
+78,LOC185,K004,Dover South,Industrial estate,Low,Yes,Good,14,Easy,High
+79,LOC142,K006,Maidstone West,Commercial area,Thick,Yes,Poor,12,Not Possible,Low
+80,LOC147,K002,Canterbury North,Lay-by,Low,Yes,Poor,14,Difficult,Low
+81,LOC036,K004,Dover North,Woodland,Empty,No,Poor,2,Not Possible,Low
+82,LOC127,K008,Swale West,Rural road,Low,No,Poor,14,Easy,Critical
+83,LOC183,K001,Ashford West,Construction area,Empty,No,Good,18,Easy,Critical
+84,LOC148,K009,Thanet East,Car park,Thick,No,Poor,2,Difficult,Low
+85,LOC144,K010,Tonbridge & Malling North,Residential street,Medium,Yes,Good,7,Not Possible,Low
+86,LOC079,K004,Dover East,Rural road,Thick,Yes,Poor,10,Not Possible,Critical
+87,LOC032,K005,Gravesham South,Construction area,Low,No,Good,10,Not Possible,High
+88,LOC042,K006,Maidstone East,Industrial estate,Medium,No,No light,4,Easy,Low
+89,LOC060,K012,Folkestone & Hythe South,Canal/river side,Low,No,Poor,9,Easy,Critical
+90,LOC018,K008,Swale West,Car park,Low,No,Good,11,Easy,Low
+91,LOC077,K004,Dover West,Rural Road,Thick,Yes,Poor,11,Not Possible,Low
+92,LOC035,K008,Swale West,Rural road,Empty,Yes,No light,10,Easy,Critical
+93,LOC055,K010,Tonbridge & Malling East,Woodland,Medium,No,Poor,3,Not Possible,Low
+94,LOC058,K011,Tunbridge Wells East,Car park,Empty,Yes,No light,12,Not Possible,High
+95,LOC074,K006,Maidstone North,Car park,Empty,No,Poor,9,Not Possible,Critical
+96,LOC193,K007,Sevenoaks West,Residential street,Thick,No,No light,16,Difficult,Critical
+97,LOC105,K012,Folkestone & Hythe East,Commercial area,Medium,No,Poor,10,Not Possible,Critical
+98,LOC052,K001,Ashford North,Industrial estate,Empty,Yes,No light,11,Difficult,Low
+99,LOC144,K002,Canterbury North,Construction area,Thick,No,Poor,15,Easy,High
+100,LOC186,K007,Sevenoaks West,Industrial estate,Medium,No,Good,4,Easy,Critical
+101,LOC122,K008,Swale East,Canal/river side,Low,Yes,No light,15,Difficult,Low
+102,LOC018,K011,Tunbridge Wells West,Canal/river side,Empty,Yes,No light,1,Difficult,Low
+103,LOC172,K012,Folkestone & Hythe West,Rural road,Medium,No,Poor,13,Difficult,High
+104,LOC062,K004,Dover East,Residential street,Thick,Yes,Poor,4,Not Possible,Critical
+105,LOC036,K006,Maidstone East,Rural road,Low,Yes,Poor,7,Easy,High
+106,LOC162,K008,Swale West,Lay-by,Low,Yes,Good,14,Not Possible,Critical
+107,LOC159,K003,Dartford East,Industrial estate,Thick,No,No light,19,Easy,High
+108,LOC022,K006,Maidstone North,Car park,Medium,No,Poor,9,Easy,High
+109,LOC019,K010,Tonbridge & Malling East,Canal/river side,Thick,No,Good,18,Not Possible,High
+110,LOC195,K007,Sevenoaks North,Car park,Low,Yes,Good,18,Difficult,Low
+111,LOC160,K010,Tonbridge & Malling North,Canal/river side,Thick,Yes,Good,17,Easy,Low
+112,LOC158,K011,Tunbridge Wells East,Commercial area,Thick,No,No light,13,Easy,High
+113,LOC033,K001,Ashford West,Construction area,Medium,Yes,Good,5,Easy,Critical
+114,LOC092,K002,Canterbury West,Construction area,Thick,No,Good,8,Difficult,Critical
+115,LOC110,K011,Tunbridge Wells South,Construction area,Medium,No,Poor,16,Difficult,Critical
+116,LOC066,K010,Tonbridge & Malling South,Commercial area,Thick,Yes,No light,6,Not Possible,High
+117,LOC180,K012,Folkestone & Hythe North,Rural road,Medium,No,Good,7,Easy,Critical
+118,LOC184,K003,Dartford East,Lay-by,Low,No,Poor,20,Difficult,Low
+119,LOC152,K005,Gravesham East,Lay-by,Thick,Yes,No light,2,Not Possible,Low
+120,LOC078,K006,Maidstone West,Construction area,Thick,Yes,Good,17,Not Possible,Low
+121,LOC056,K007,Sevenoaks North,Woodland,Low,No,Good,16,Difficult,Critical
+122,LOC200,K002,Canterbury East,Rural road,Empty,Yes,No light,9,Easy,High
+123,LOC105,K001,Ashford West,Car park,Medium,Yes,Poor,5,Not Possible,Low
+124,LOC036,K006,Maidstone West,Car park,Low,Yes,No light,14,Not Possible,Critical
+125,LOC172,K002,Canterbury North,Canal/river side,Medium,No,No light,10,Difficult,High
+126,LOC072,K008,Swale West,Lay-by,Empty,Yes,Good,13,Not Possible,Critical
+127,LOC163,K004,Dover East,Commercial area,Empty,Yes,No light,9,Not Possible,Low
+128,LOC104,K012,Folkestone & Hythe South,Industrial estate,Medium,No,Good,13,Difficult,Critical
+129,LOC086,K009,Thanet North,Industrial estate,Low,Yes,No light,12,Easy,Critical
+130,LOC132,K003,Dartford East,Rural Road,Empty,Yes,Good,7,Difficult,High
+131,LOC166,K007,Sevenoaks North,Woodland,Low,No,No light,7,Easy,Low
+132,LOC191,K008,Swale East,Commercial area,Medium,No,No light,4,Easy,High
+133,LOC151,K004,Dover East,Construction area,Thick,No,Poor,14,Easy,High
+134,LOC116,K008,Swale South,Residential street,Medium,Yes,No light,8,Difficult,Critical
+135,LOC163,K007,Sevenoaks West,Commercial area,Medium,Yes,Good,1,Easy,Critical
+136,LOC076,K010,Tonbridge & Malling South,Industrial estate,Low,No,No light,10,Not Possible,Critical
+137,LOC008,K002,Canterbury North,Rural road,Low,Yes,No light,13,Easy,Critical
+138,LOC017,K009,Thanet South,Rural Road,Empty,No,Poor,16,Difficult,Critical
+139,LOC144,K009,Thanet East,Car park,Low,Yes,Good,11,Easy,High
+140,LOC154,K010,Tonbridge & Malling North,Industrial estate,Low,Yes,No light,8,Not Possible,Critical
+141,LOC023,K011,Tunbridge Wells West,Rural Road,Medium,No,Poor,8,Not Possible,Critical
+142,LOC113,K012,Folkestone & Hythe East,Woodland,Medium,No,No light,8,Not Possible,Low
+143,LOC071,K007,Sevenoaks South,Residential street,Low,Yes,Poor,14,Not Possible,High
+144,LOC092,K003,Dartford East,Industrial estate,Low,No,No light,15,Not Possible,Low
+145,LOC098,K007,Sevenoaks South,Commercial area,Low,No,Poor,18,Difficult,Low
+146,LOC001,K001,Ashford West,Canal/river side,Empty,No,Good,2,Difficult,High
+147,LOC117,K005,Gravesham West,Residential street,Medium,No,Poor,19,Difficult,Low
+148,LOC007,K006,Maidstone North,Industrial estate,Low,No,Poor,1,Easy,Critical
+149,LOC041,K006,Maidstone North,Rural Road,Thick,Yes,Poor,13,Easy,Critical
+150,LOC178,K011,Tunbridge Wells North,Woodland,Medium,Yes,No light,19,Difficult,Critical
+151,LOC052,K009,Thanet East,Construction area,Low,Yes,Poor,13,Easy,Critical
+152,LOC096,K007,Sevenoaks East,Rural road,Empty,No,Good,7,Difficult,Critical
+153,LOC164,K012,Folkestone & Hythe South,Commercial area,Medium,Yes,Good,11,Easy,Low
+154,LOC143,K008,Swale West,Commercial area,Empty,No,Poor,19,Difficult,Low
+155,LOC081,K001,Ashford West,Car park,Medium,No,Good,1,Difficult,High
+156,LOC080,K012,Folkestone & Hythe West,Rural road,Thick,No,Good,15,Difficult,High
+157,LOC079,K011,Tunbridge Wells South,Woodland,Empty,Yes,Good,7,Not Possible,High
+158,LOC168,K011,Tunbridge Wells North,Woodland,Medium,Yes,No light,19,Not Possible,Low
+159,LOC106,K008,Swale East,Rural Road,Thick,No,Poor,9,Difficult,High
+160,LOC075,K008,Swale East,Car park,Low,No,Good,8,Not Possible,Critical
+161,LOC186,K001,Ashford West,Rural road,Low,No,Poor,5,Not Possible,Low
+162,LOC189,K004,Dover West,Commercial area,Empty,Yes,No light,15,Difficult,Low
+163,LOC045,K008,Swale West,Industrial estate,Medium,Yes,Poor,14,Difficult,Low
+164,LOC064,K010,Tonbridge & Malling East,Industrial estate,Medium,No,No light,16,Not Possible,High
+165,LOC138,K006,Maidstone North,Industrial estate,Thick,No,Good,6,Not Possible,Critical
+166,LOC178,K012,Folkestone & Hythe East,Construction area,Thick,No,No light,15,Difficult,Low
+167,LOC023,K009,Thanet West,Rural road,Thick,Yes,No light,12,Easy,High
+168,LOC163,K009,Thanet East,Canal/river side,Medium,Yes,No light,20,Difficult,Low
+169,LOC133,K001,Ashford South,Residential street,Empty,No,Poor,19,Easy,Low
+170,LOC084,K006,Maidstone South,Rural Road,Low,Yes,No light,5,Not Possible,High
+171,LOC157,K010,Tonbridge & Malling North,Rural Road,Medium,No,Good,20,Easy,High
+172,LOC182,K002,Canterbury North,Construction area,Low,Yes,Good,8,Difficult,High
+173,LOC186,K001,Ashford North,Commercial area,Low,No,No light,13,Easy,Low
+174,LOC040,K002,Canterbury North,Rural Road,Thick,Yes,No light,8,Difficult,Critical
+175,LOC197,K005,Gravesham East,Car park,Medium,No,No light,12,Easy,Low
+176,LOC027,K004,Dover West,Construction area,Medium,No,No light,6,Not Possible,Critical
+177,LOC065,K011,Tunbridge Wells West,Rural road,Empty,No,Good,13,Easy,Low
+178,LOC105,K001,Ashford West,Construction area,Thick,Yes,Poor,9,Difficult,High
+179,LOC098,K007,Sevenoaks South,Woodland,Empty,Yes,Poor,14,Not Possible,High
+180,LOC080,K008,Swale West,Commercial area,Thick,No,Poor,3,Not Possible,Low
+181,LOC078,K005,Gravesham East,Rural Road,Medium,Yes,Good,6,Not Possible,Low
+182,LOC200,K004,Dover East,Rural Road,Thick,No,Poor,11,Not Possible,High
+183,LOC088,K001,Ashford West,Woodland,Low,Yes,Poor,13,Not Possible,High
+184,LOC067,K008,Swale West,Commercial area,Empty,No,Poor,9,Not Possible,High
+185,LOC149,K012,Folkestone & Hythe East,Industrial estate,Thick,No,No light,4,Difficult,Low
+186,LOC122,K004,Dover West,Car park,Thick,No,Poor,18,Not Possible,Low
+187,LOC111,K008,Swale South,Woodland,Low,No,No light,7,Difficult,Low
+188,LOC073,K010,Tonbridge & Malling South,Commercial area,Empty,Yes,Poor,9,Easy,High
+189,LOC143,K011,Tunbridge Wells East,Residential street,Medium,No,Poor,13,Difficult,Critical
+190,LOC013,K004,Dover South,Woodland,Thick,Yes,Poor,9,Difficult,Low
+191,LOC088,K010,Tonbridge & Malling West,Residential street,Empty,Yes,Poor,12,Difficult,Low
+192,LOC062,K007,Sevenoaks East,Woodland,Thick,No,No light,18,Not Possible,Low
+193,LOC077,K005,Gravesham East,Commercial area,Thick,No,Good,14,Not Possible,Critical
+194,LOC084,K006,Maidstone South,Commercial area,Medium,Yes,Poor,16,Not Possible,Critical
+195,LOC072,K002,Canterbury East,Woodland,Low,No,Good,5,Easy,Low
+196,LOC161,K005,Gravesham South,Woodland,Low,Yes,Poor,20,Difficult,Critical
+197,LOC041,K002,Canterbury East,Car park,Empty,Yes,No light,3,Difficult,Critical
+198,LOC013,K006,Maidstone West,Commercial area,Medium,No,Good,3,Difficult,Critical
+199,LOC106,K004,Dover North,Lay-by,Medium,No,Good,14,Easy,High
+200,LOC143,K006,Maidstone West,Lay-by,Low,No,Good,20,Not Possible,Critical
+201,LOC158,K010,Tonbridge & Malling East,Car park,Medium,Yes,Good,7,Not Possible,Low
+202,LOC073,K011,Tunbridge Wells North,Construction area,Medium,No,Good,3,Easy,Critical
+203,LOC071,K012,Folkestone & Hythe North,Industrial estate,Thick,No,No light,7,Difficult,Low
+204,LOC032,K002,Canterbury West,Woodland,Medium,Yes,Poor,6,Not Possible,Low
+205,LOC173,K004,Dover East,Commercial area,Medium,No,Good,4,Difficult,High
+206,LOC070,K006,Maidstone North,Rural road,Medium,Yes,Poor,18,Difficult,High
+207,LOC175,K008,Swale West,Car park,Low,Yes,No light,8,Easy,Critical
+208,LOC040,K012,Folkestone & Hythe North,Construction area,Empty,No,Good,5,Not Possible,Critical
+209,LOC021,K002,Canterbury North,Rural road,Low,No,Poor,9,Difficult,Critical
+210,LOC162,K002,Canterbury North,Car park,Medium,Yes,Good,20,Not Possible,High
+211,LOC112,K004,Dover West,Rural road,Low,No,No light,14,Not Possible,Critical
+212,LOC107,K010,Tonbridge & Malling East,Rural Road,Medium,Yes,No light,17,Easy,Critical
+213,LOC129,K005,Gravesham East,Lay-by,Empty,Yes,Poor,3,Not Possible,High
+214,LOC079,K007,Sevenoaks East,Commercial area,Thick,No,Good,12,Difficult,High
+215,LOC078,K012,Folkestone & Hythe North,Woodland,Thick,Yes,Good,2,Difficult,High
+216,LOC163,K002,Canterbury South,Rural Road,Empty,Yes,Good,7,Not Possible,High
+217,LOC109,K003,Dartford North,Residential street,Empty,Yes,Poor,13,Difficult,Low
+218,LOC109,K004,Dover North,Rural road,Empty,Yes,Poor,7,Not Possible,Low
+219,LOC140,K006,Maidstone East,Canal/river side,Thick,Yes,Poor,2,Difficult,Low
+220,LOC054,K010,Tonbridge & Malling North,Industrial estate,Thick,Yes,Good,6,Easy,Low
+221,LOC135,K003,Dartford North,Car park,Low,Yes,No light,7,Easy,High
+222,LOC153,K004,Dover North,Construction area,Medium,Yes,Poor,6,Not Possible,Low
+223,LOC184,K009,Thanet West,Woodland,Empty,No,Poor,15,Not Possible,Critical
+224,LOC090,K006,Maidstone South,Lay-by,Medium,No,Good,15,Not Possible,High
+225,LOC034,K009,Thanet North,Rural road,Medium,Yes,Good,6,Difficult,High
+226,LOC195,K004,Dover North,Car park,Empty,No,Poor,18,Difficult,High
+227,LOC015,K001,Ashford North,Rural Road,Thick,Yes,No light,18,Not Possible,High
+228,LOC033,K012,Folkestone & Hythe South,Rural Road,Thick,No,Poor,15,Not Possible,Low
+229,LOC172,K002,Canterbury North,Commercial area,Low,No,Poor,4,Easy,Critical
+230,LOC095,K007,Sevenoaks North,Industrial estate,Empty,Yes,Poor,6,Not Possible,High
+231,LOC002,K008,Swale South,Residential street,Empty,Yes,Good,16,Easy,High
+232,LOC117,K009,Thanet South,Industrial estate,Empty,Yes,No light,11,Not Possible,High
+233,LOC148,K001,Ashford South,Construction area,Low,Yes,Good,12,Difficult,Low
+234,LOC090,K003,Dartford South,Residential street,Low,Yes,Poor,12,Difficult,High
+235,LOC021,K005,Gravesham North,Car park,Thick,Yes,No light,8,Not Possible,High
+236,LOC130,K006,Maidstone East,Rural road,Thick,No,Poor,9,Difficult,Low
+237,LOC009,K010,Tonbridge & Malling North,Commercial area,Medium,No,No light,16,Easy,Critical
+238,LOC121,K003,Dartford North,Lay-by,Thick,No,Good,14,Difficult,Low
+239,LOC139,K006,Maidstone East,Canal/river side,Low,Yes,Good,20,Easy,Low
+240,LOC163,K010,Tonbridge & Malling East,Lay-by,Medium,Yes,Good,14,Not Possible,Low
+241,LOC099,K004,Dover West,Rural Road,Low,Yes,No light,16,Easy,Critical
+242,LOC158,K002,Canterbury West,Industrial estate,Thick,Yes,Poor,4,Difficult,High
+243,LOC146,K003,Dartford East,Industrial estate,Medium,Yes,Poor,17,Easy,Low
+244,LOC019,K004,Dover East,Residential street,Low,No,Poor,17,Difficult,Critical
+245,LOC023,K007,Sevenoaks East,Commercial area,Medium,Yes,Good,18,Not Possible,Low
+246,LOC200,K009,Thanet East,Rural road,Low,No,Poor,17,Not Possible,Low
+247,LOC001,K010,Tonbridge & Malling East,Industrial estate,Medium,No,Poor,7,Difficult,High
+248,LOC129,K003,Dartford East,Construction area,Empty,No,Good,20,Difficult,Critical
+249,LOC127,K005,Gravesham North,Rural road,Empty,Yes,No light,13,Difficult,High
+250,LOC185,K006,Maidstone West,Rural road,Low,Yes,Good,11,Easy,High
+251,LOC002,K007,Sevenoaks North,Car park,Thick,Yes,Good,17,Difficult,High
+252,LOC143,K008,Swale South,Industrial estate,Thick,No,Good,10,Difficult,Critical
+253,LOC111,K005,Gravesham East,Woodland,Low,Yes,Good,1,Not Possible,High
+254,LOC179,K011,Tunbridge Wells South,Commercial area,Medium,Yes,No light,4,Easy,Low
+255,LOC123,K006,Maidstone West,Industrial estate,Medium,Yes,Poor,17,Not Possible,Critical
+256,LOC064,K008,Swale North,Residential street,Thick,No,No light,10,Easy,Low
+257,LOC013,K008,Swale West,Woodland,Empty,No,Poor,18,Difficult,Low
+258,LOC040,K006,Maidstone East,Residential street,Thick,Yes,Poor,7,Easy,Critical
+259,LOC083,K003,Dartford West,Commercial area,Low,No,Good,6,Difficult,Low
+260,LOC162,K010,Tonbridge & Malling North,Canal/river side,Low,Yes,Good,2,Not Possible,High
+261,LOC070,K001,Ashford South,Car park,Empty,No,Good,2,Easy,High
+262,LOC133,K009,Thanet South,Canal/river side,Medium,Yes,Poor,5,Difficult,Critical
+263,LOC041,K001,Ashford North,Commercial area,Empty,No,Poor,6,Easy,Critical
+264,LOC047,K004,Dover West,Industrial estate,Thick,No,Good,10,Difficult,High
+265,LOC168,K007,Sevenoaks West,Rural road,Thick,Yes,Poor,5,Easy,Critical
+266,LOC145,K002,Canterbury West,Residential street,Empty,Yes,Good,4,Difficult,High
+267,LOC167,K006,Maidstone West,Woodland,Thick,Yes,Poor,19,Difficult,High
+268,LOC025,K002,Canterbury North,Rural Road,Low,No,No light,3,Not Possible,Low
+269,LOC192,K007,Sevenoaks West,Residential street,Empty,Yes,No light,8,Easy,Critical
+270,LOC045,K012,Folkestone & Hythe East,Lay-by,Empty,Yes,Good,18,Difficult,High
+271,LOC110,K004,Dover North,Industrial estate,Low,Yes,Poor,17,Not Possible,Low
+272,LOC160,K010,Tonbridge & Malling North,Canal/river side,Low,No,Poor,14,Difficult,Critical
+273,LOC041,K004,Dover South,Residential street,Medium,Yes,No light,6,Not Possible,Critical
+274,LOC059,K006,Maidstone East,Commercial area,Medium,Yes,No light,4,Easy,High
+275,LOC031,K002,Canterbury South,Canal/river side,Low,Yes,Poor,9,Not Possible,Critical
+276,LOC020,K004,Dover North,Commercial area,Thick,No,No light,12,Easy,Critical
+277,LOC159,K008,Swale South,Residential street,Thick,Yes,No light,16,Not Possible,High
+278,LOC031,K003,Dartford East,Residential street,Thick,No,Poor,1,Easy,High
+279,LOC146,K005,Gravesham North,Canal/river side,Thick,Yes,Poor,5,Easy,Low
+280,LOC119,K007,Sevenoaks South,Industrial estate,Empty,No,No light,20,Easy,High
+281,LOC175,K009,Thanet East,Car park,Thick,Yes,No light,12,Not Possible,High
+282,LOC047,K009,Thanet West,Woodland,Thick,No,Poor,12,Easy,Critical
+283,LOC008,K008,Swale South,Canal/river side,Thick,Yes,No light,12,Easy,High
+284,LOC190,K007,Sevenoaks North,Woodland,Empty,Yes,Poor,20,Easy,Critical
+285,LOC055,K001,Ashford East,Rural Road,Empty,Yes,Poor,3,Difficult,Critical
+286,LOC158,K004,Dover West,Industrial estate,Empty,No,No light,6,Easy,Low
+287,LOC154,K005,Gravesham South,Residential street,Medium,No,No light,12,Difficult,Low
+288,LOC094,K008,Swale East,Commercial area,Medium,No,Poor,16,Not Possible,Critical
+289,LOC045,K001,Ashford West,Construction area,Low,Yes,Poor,18,Not Possible,Critical
+290,LOC124,K010,Tonbridge & Malling South,Canal/river side,Medium,Yes,Poor,11,Not Possible,High
+291,LOC115,K011,Tunbridge Wells South,Rural road,Low,No,Good,2,Easy,High
+292,LOC086,K003,Dartford South,Commercial area,Medium,Yes,Good,19,Not Possible,Low
+293,LOC032,K007,Sevenoaks West,Industrial estate,Medium,No,Good,5,Not Possible,High
+294,LOC191,K003,Dartford West,Canal/river side,Low,Yes,Poor,20,Difficult,High
+295,LOC181,K012,Folkestone & Hythe North,Construction area,Thick,No,Poor,15,Difficult,Critical
+296,LOC096,K004,Dover North,Car park,Low,No,No light,5,Difficult,Low
+297,LOC152,K009,Thanet West,Rural Road,Thick,Yes,Good,5,Easy,Low
+298,LOC105,K004,Dover South,Car park,Medium,Yes,Good,15,Easy,Low
+299,LOC062,K005,Gravesham East,Industrial estate,Thick,No,Poor,5,Easy,Critical
+300,LOC159,K010,Tonbridge & Malling South,Commercial area,Empty,No,Good,18,Easy,Low
+301,LOC064,K008,Swale East,Industrial estate,Medium,No,Poor,2,Not Possible,High
+302,LOC174,K003,Dartford East,Woodland,Empty,No,Poor,6,Difficult,Low
+303,LOC057,K009,Thanet East,Construction area,Medium,Yes,Poor,4,Difficult,High
+304,LOC143,K006,Maidstone East,Rural road,Medium,No,No light,3,Easy,High
+305,LOC181,K010,Tonbridge & Malling North,Canal/river side,Low,No,Good,6,Easy,Low
+306,LOC159,K011,Tunbridge Wells West,Car park,Thick,No,No light,2,Difficult,High
+307,LOC038,K004,Dover South,Canal/river side,Empty,Yes,Good,17,Not Possible,Critical
+308,LOC064,K009,Thanet South,Rural Road,Medium,No,No light,5,Difficult,Critical
+309,LOC074,K007,Sevenoaks West,Woodland,Low,Yes,No light,6,Not Possible,Low
+310,LOC190,K009,Thanet South,Construction area,Empty,Yes,Poor,11,Difficult,High
+311,LOC195,K001,Ashford West,Rural Road,Medium,No,Poor,9,Easy,Low
+312,LOC180,K002,Canterbury West,Residential street,Empty,Yes,No light,17,Easy,Critical
+313,LOC194,K002,Canterbury South,Car park,Empty,No,No light,14,Easy,High
+314,LOC109,K003,Dartford South,Canal/river side,Empty,Yes,Good,12,Not Possible,Low
+315,LOC009,K001,Ashford East,Lay-by,Empty,Yes,Good,14,Difficult,Low
+316,LOC196,K005,Gravesham South,Residential street,Low,Yes,No light,15,Not Possible,High
+317,LOC061,K008,Swale West,Commercial area,Medium,No,Good,2,Not Possible,High
+318,LOC118,K010,Tonbridge & Malling North,Industrial estate,Thick,Yes,Poor,9,Easy,Critical
+319,LOC167,K001,Ashford East,Rural road,Thick,Yes,No light,3,Easy,Low
+320,LOC167,K008,Swale North,Car park,Low,Yes,Poor,6,Difficult,Critical
+321,LOC197,K004,Dover East,Commercial area,Thick,No,No light,9,Easy,High
+322,LOC159,K007,Sevenoaks West,Commercial area,Empty,No,Poor,6,Difficult,Critical
+323,LOC028,K008,Swale East,Industrial estate,Medium,Yes,No light,16,Not Possible,Low
+324,LOC177,K011,Tunbridge Wells North,Canal/river side,Thick,No,No light,19,Not Possible,Low
+325,LOC177,K007,Sevenoaks North,Woodland,Thick,Yes,No light,13,Easy,Low
+326,LOC102,K009,Thanet North,Construction area,Thick,No,Poor,5,Easy,Critical
+327,LOC125,K006,Maidstone West,Canal/river side,Empty,Yes,Good,8,Not Possible,High
+328,LOC020,K009,Thanet South,Woodland,Low,Yes,No light,17,Easy,High
+329,LOC176,K004,Dover East,Industrial estate,Thick,Yes,No light,19,Not Possible,Low
+330,LOC167,K001,Ashford South,Rural Road,Medium,No,Poor,11,Easy,Low
+331,LOC118,K006,Maidstone East,Commercial area,Low,No,No light,4,Easy,High
+332,LOC037,K009,Thanet West,Residential street,Thick,No,Good,8,Difficult,High
+333,LOC176,K001,Ashford South,Rural road,Medium,No,Poor,15,Not Possible,Low
+334,LOC028,K009,Thanet North,Lay-by,Empty,No,Poor,2,Easy,High
+335,LOC198,K004,Dover East,Commercial area,Thick,No,Good,13,Not Possible,Low
+336,LOC094,K002,Canterbury North,Canal/river side,Medium,Yes,No light,13,Not Possible,Low
+337,LOC188,K003,Dartford North,Industrial estate,Medium,No,Poor,8,Not Possible,Critical
+338,LOC072,K005,Gravesham East,Woodland,Medium,Yes,No light,11,Not Possible,Low
+339,LOC175,K006,Maidstone North,Residential street,Empty,No,No light,1,Difficult,High
+340,LOC015,K008,Swale East,Car park,Thick,Yes,Poor,2,Difficult,Low
+341,LOC042,K002,Canterbury South,Residential street,Low,No,No light,18,Not Possible,Low
+342,LOC012,K004,Dover West,Woodland,Low,Yes,Poor,13,Not Possible,Critical
+343,LOC160,K001,Ashford South,Industrial estate,Low,Yes,Poor,4,Not Possible,Low
+344,LOC139,K003,Dartford East,Car park,Low,Yes,No light,13,Not Possible,Low
+345,LOC109,K004,Dover North,Rural road,Low,No,Poor,6,Easy,Low
+346,LOC163,K006,Maidstone West,Commercial area,Medium,No,Poor,18,Not Possible,Critical
+347,LOC005,K002,Canterbury South,Construction area,Thick,No,Good,2,Not Possible,Critical
+348,LOC004,K008,Swale South,Rural road,Empty,Yes,Poor,3,Easy,Critical
+349,LOC200,K011,Tunbridge Wells West,Rural Road,Low,No,Good,3,Difficult,Low
+350,LOC036,K008,Swale North,Industrial estate,Medium,No,No light,12,Easy,Low
+351,LOC161,K004,Dover North,Industrial estate,Empty,Yes,Good,12,Not Possible,Low
+352,LOC179,K010,Tonbridge & Malling South,Rural road,Empty,No,Good,1,Not Possible,Critical
+353,LOC108,K011,Tunbridge Wells East,Rural road,Empty,No,No light,11,Not Possible,Critical
+354,LOC018,K008,Swale East,Canal/river side,Empty,No,Poor,16,Difficult,Low
+355,LOC081,K012,Folkestone & Hythe East,Residential street,Thick,Yes,No light,14,Easy,Low
+356,LOC045,K005,Gravesham North,Construction area,Low,Yes,No light,13,Easy,Low
+357,LOC100,K010,Tonbridge & Malling West,Car park,Empty,Yes,Good,19,Easy,Critical
+358,LOC015,K005,Gravesham North,Residential street,Low,Yes,Good,16,Not Possible,High
+359,LOC020,K008,Swale South,Rural Road,Empty,No,Good,11,Easy,High
+360,LOC187,K001,Ashford West,Woodland,Thick,Yes,No light,16,Not Possible,Critical
+361,LOC154,K004,Dover West,Canal/river side,Medium,No,Poor,1,Not Possible,High
+362,LOC162,K004,Dover West,Industrial estate,Thick,No,Poor,2,Easy,Critical
+363,LOC183,K001,Ashford East,Rural Road,Thick,No,No light,1,Not Possible,Low
+364,LOC122,K002,Canterbury East,Industrial estate,Low,Yes,No light,15,Not Possible,Critical
+365,LOC004,K001,Ashford North,Lay-by,Medium,Yes,Poor,19,Not Possible,Critical
+366,LOC135,K005,Gravesham North,Rural Road,Empty,Yes,Poor,20,Easy,High
+367,LOC138,K007,Sevenoaks West,Residential street,Thick,Yes,Good,6,Not Possible,Low
+368,LOC102,K012,Folkestone & Hythe East,Industrial estate,Thick,Yes,Poor,19,Difficult,Low
+369,LOC057,K004,Dover West,Residential street,Thick,Yes,Poor,9,Easy,Critical
+370,LOC048,K005,Gravesham East,Industrial estate,Medium,No,Good,15,Not Possible,High
+371,LOC015,K003,Dartford South,Lay-by,Low,Yes,No light,16,Difficult,Low
+372,LOC074,K001,Ashford West,Industrial estate,Thick,Yes,No light,6,Difficult,High
+373,LOC036,K002,Canterbury East,Woodland,Thick,Yes,Good,2,Easy,High
+374,LOC134,K009,Thanet South,Rural road,Medium,Yes,No light,19,Difficult,Critical
+375,LOC153,K006,Maidstone West,Construction area,Medium,Yes,Poor,3,Not Possible,High
+376,LOC158,K008,Swale North,Commercial area,Empty,Yes,Poor,5,Easy,High
+377,LOC030,K009,Thanet South,Commercial area,Empty,Yes,No light,5,Easy,Low
+378,LOC036,K002,Canterbury East,Commercial area,Thick,No,No light,16,Difficult,High
+379,LOC103,K003,Dartford North,Canal/river side,Empty,No,Poor,4,Not Possible,Low
+380,LOC004,K004,Dover North,Rural road,Thick,Yes,Poor,8,Not Possible,Critical
+381,LOC198,K008,Swale South,Rural Road,Thick,Yes,Poor,12,Not Possible,Critical
+382,LOC159,K004,Dover North,Residential street,Medium,Yes,No light,3,Not Possible,Critical
+383,LOC035,K010,Tonbridge & Malling South,Woodland,Medium,Yes,No light,13,Not Possible,Low
+384,LOC154,K003,Dartford North,Residential street,Empty,No,Good,20,Not Possible,Low
+385,LOC058,K011,Tunbridge Wells South,Lay-by,Medium,Yes,No light,18,Difficult,Critical
+386,LOC186,K012,Folkestone & Hythe East,Car park,Empty,No,No light,17,Not Possible,Critical
+387,LOC085,K003,Dartford South,Commercial area,Medium,Yes,Poor,5,Difficult,Low
+388,LOC119,K001,Ashford North,Canal/river side,Low,Yes,Good,12,Easy,Critical
+389,LOC080,K003,Dartford South,Construction area,Low,No,Poor,6,Difficult,Low
+390,LOC040,K004,Dover West,Rural road,Empty,No,Good,17,Not Possible,Low
+391,LOC119,K011,Tunbridge Wells West,Industrial estate,Low,Yes,No light,18,Easy,High
+392,LOC047,K011,Tunbridge Wells East,Rural Road,Low,No,No light,19,Difficult,Low
+393,LOC034,K012,Folkestone & Hythe North,Woodland,Thick,No,No light,17,Difficult,Low
+394,LOC004,K002,Canterbury West,Canal/river side,Medium,No,Good,1,Easy,Critical
+395,LOC199,K004,Dover West,Residential street,Empty,No,Poor,1,Not Possible,High
+396,LOC103,K009,Thanet West,Industrial estate,Empty,No,No light,15,Easy,Critical
+397,LOC068,K004,Dover East,Woodland,Low,No,Poor,5,Difficult,High
+398,LOC166,K012,Folkestone & Hythe West,Residential street,Empty,No,Poor,16,Easy,High
+399,LOC034,K004,Dover South,Rural road,Thick,Yes,Poor,13,Easy,High
+400,LOC003,K006,Maidstone West,Construction area,Low,Yes,No light,7,Not Possible,Low
+401,LOC039,K007,Sevenoaks North,Car park,Empty,Yes,Good,5,Difficult,Low
+402,LOC020,K005,Gravesham South,Industrial estate,Medium,No,Good,14,Not Possible,Critical
+403,LOC077,K001,Ashford East,Rural road,Thick,Yes,Poor,17,Difficult,High
+404,LOC138,K005,Gravesham East,Construction area,Empty,No,Good,2,Easy,High
+405,LOC033,K012,Folkestone & Hythe South,Rural road,Thick,Yes,Good,13,Easy,Low
+406,LOC173,K001,Ashford South,Rural road,Thick,No,Poor,1,Difficult,Critical
+407,LOC055,K005,Gravesham West,Industrial estate,Thick,Yes,Poor,9,Difficult,Critical
+408,LOC052,K005,Gravesham North,Woodland,Thick,Yes,Poor,11,Not Possible,Low
+409,LOC175,K008,Swale West,Rural Road,Thick,Yes,No light,4,Not Possible,High
+410,LOC101,K011,Tunbridge Wells East,Woodland,Thick,No,No light,9,Easy,Critical
+411,LOC186,K001,Ashford North,Construction area,Empty,Yes,No light,14,Not Possible,Low
+412,LOC107,K006,Maidstone North,Rural road,Low,No,No light,16,Difficult,High
+413,LOC058,K007,Sevenoaks West,Woodland,Empty,No,Good,20,Easy,High
+414,LOC198,K004,Dover North,Canal/river side,Thick,No,Poor,20,Easy,High
+415,LOC169,K008,Swale North,Canal/river side,Empty,No,Poor,16,Difficult,Critical
+416,LOC131,K010,Tonbridge & Malling North,Rural road,Empty,Yes,Poor,7,Easy,High
+417,LOC013,K006,Maidstone West,Canal/river side,Low,Yes,Good,7,Not Possible,Low
+418,LOC172,K001,Ashford South,Car park,Empty,Yes,Good,2,Difficult,Critical
+419,LOC153,K006,Maidstone South,Industrial estate,Low,Yes,Poor,5,Not Possible,Critical
+420,LOC101,K008,Swale North,Car park,Empty,Yes,No light,1,Not Possible,Critical
+421,LOC191,K011,Tunbridge Wells East,Construction area,Empty,Yes,Good,19,Not Possible,Low
+422,LOC007,K009,Thanet South,Rural Road,Empty,No,Poor,4,Easy,Low
+423,LOC180,K004,Dover North,Industrial estate,Empty,No,No light,1,Not Possible,High
+424,LOC043,K011,Tunbridge Wells West,Rural road,Low,Yes,Poor,2,Difficult,High
+425,LOC114,K011,Tunbridge Wells West,Car park,Medium,Yes,Poor,18,Difficult,High
+426,LOC047,K006,Maidstone North,Commercial area,Medium,Yes,Poor,11,Difficult,High
+427,LOC096,K012,Folkestone & Hythe East,Rural Road,Empty,Yes,Good,9,Not Possible,Critical
+428,LOC094,K004,Dover East,Rural Road,Thick,No,Poor,9,Not Possible,Low
+429,LOC001,K012,Folkestone & Hythe North,Industrial estate,Thick,No,No light,5,Not Possible,High
+430,LOC042,K002,Canterbury South,Canal/river side,Medium,Yes,Poor,13,Easy,Low
+431,LOC025,K003,Dartford East,Lay-by,Empty,No,Good,3,Difficult,Critical
+432,LOC131,K003,Dartford West,Car park,Medium,No,Good,11,Difficult,Critical
+433,LOC033,K003,Dartford East,Industrial estate,Thick,Yes,No light,17,Difficult,Low
+434,LOC189,K011,Tunbridge Wells North,Woodland,Thick,No,No light,16,Not Possible,Low
+435,LOC153,K002,Canterbury North,Rural Road,Medium,No,Good,8,Difficult,Critical
+436,LOC068,K002,Canterbury South,Commercial area,Thick,No,No light,15,Not Possible,High
+437,LOC199,K008,Swale South,Canal/river side,Thick,Yes,Good,17,Easy,Low
+438,LOC037,K007,Sevenoaks North,Lay-by,Empty,No,Poor,18,Easy,Low
+439,LOC054,K009,Thanet South,Woodland,Medium,No,No light,11,Easy,Low
+440,LOC052,K010,Tonbridge & Malling South,Rural road,Thick,Yes,Poor,8,Not Possible,Critical
+441,LOC164,K009,Thanet North,Lay-by,Empty,No,Poor,2,Easy,Critical
+442,LOC015,K002,Canterbury West,Industrial estate,Empty,Yes,Good,19,Not Possible,High
+443,LOC056,K012,Folkestone & Hythe West,Rural road,Empty,Yes,Poor,2,Difficult,Low
+444,LOC146,K003,Dartford South,Commercial area,Thick,Yes,Good,5,Easy,Critical
+445,LOC079,K001,Ashford West,Commercial area,Medium,Yes,Poor,6,Difficult,Critical
+446,LOC077,K002,Canterbury West,Lay-by,Empty,Yes,Poor,14,Not Possible,Low
+447,LOC125,K011,Tunbridge Wells North,Car park,Medium,No,No light,11,Easy,Critical
+448,LOC195,K003,Dartford North,Woodland,Thick,No,No light,6,Easy,High
+449,LOC148,K011,Tunbridge Wells North,Construction area,Thick,No,Good,1,Easy,Critical
+450,LOC044,K003,Dartford North,Rural road,Low,No,Poor,3,Not Possible,Critical
+451,LOC134,K010,Tonbridge & Malling East,Canal/river side,Thick,Yes,No light,18,Difficult,Critical
+452,LOC147,K008,Swale West,Industrial estate,Thick,Yes,No light,11,Not Possible,High
+453,LOC148,K012,Folkestone & Hythe East,Commercial area,Low,Yes,Poor,18,Easy,Low
+454,LOC068,K002,Canterbury East,Car park,Thick,No,Good,15,Not Possible,High
+455,LOC184,K003,Dartford East,Rural road,Low,No,Good,8,Not Possible,Low
+456,LOC104,K006,Maidstone East,Car park,Low,Yes,Good,12,Easy,Low
+457,LOC146,K003,Dartford South,Construction area,Low,Yes,Good,9,Difficult,Critical
+458,LOC014,K002,Canterbury South,Industrial estate,Medium,No,Poor,8,Difficult,Low
+459,LOC115,K006,Maidstone North,Lay-by,Thick,Yes,Poor,18,Easy,High
+460,LOC116,K003,Dartford East,Rural Road,Low,No,No light,20,Difficult,Critical
+461,LOC158,K005,Gravesham South,Rural Road,Thick,No,No light,12,Not Possible,High
+462,LOC021,K009,Thanet South,Construction area,Empty,No,No light,11,Easy,Low
+463,LOC004,K007,Sevenoaks South,Rural road,Low,No,Good,4,Easy,Critical
+464,LOC178,K009,Thanet East,Industrial estate,Thick,No,Good,14,Easy,High
+465,LOC154,K011,Tunbridge Wells South,Construction area,Low,Yes,Poor,3,Difficult,Critical
+466,LOC083,K001,Ashford West,Lay-by,Medium,Yes,No light,7,Difficult,Critical
+467,LOC144,K003,Dartford East,Industrial estate,Thick,Yes,Good,10,Difficult,Critical
+468,LOC043,K011,Tunbridge Wells South,Canal/river side,Low,No,Good,11,Not Possible,High
+469,LOC016,K002,Canterbury North,Rural Road,Medium,No,No light,6,Difficult,Critical
+470,LOC009,K012,Folkestone & Hythe East,Residential street,Medium,No,Good,15,Difficult,High
+471,LOC117,K003,Dartford West,Car park,Empty,No,Poor,6,Difficult,Low
+472,LOC081,K009,Thanet South,Industrial estate,Thick,Yes,No light,12,Difficult,High
+473,LOC023,K005,Gravesham South,Rural road,Medium,No,No light,3,Not Possible,High
+474,LOC085,K009,Thanet East,Commercial area,Thick,Yes,Good,12,Not Possible,Low
+475,LOC154,K012,Folkestone & Hythe South,Industrial estate,Empty,Yes,No light,6,Difficult,High
+476,LOC146,K006,Maidstone South,Commercial area,Thick,No,Poor,4,Not Possible,Low
+477,LOC127,K006,Maidstone West,Construction area,Low,No,Poor,2,Easy,Critical
+478,LOC164,K001,Ashford West,Woodland,Medium,Yes,No light,9,Easy,Low
+479,LOC196,K012,Folkestone & Hythe South,Commercial area,Medium,No,Poor,14,Easy,Low
+480,LOC067,K005,Gravesham East,Rural Road,Empty,Yes,Poor,2,Not Possible,Critical
+481,LOC181,K012,Folkestone & Hythe East,Construction area,Medium,Yes,Poor,2,Difficult,Low
+482,LOC173,K002,Canterbury South,Lay-by,Low,Yes,No light,18,Easy,High
+483,LOC018,K004,Dover East,Residential street,Thick,No,Poor,17,Not Possible,High
+484,LOC154,K008,Swale West,Industrial estate,Thick,Yes,Poor,9,Not Possible,Critical
+485,LOC104,K011,Tunbridge Wells South,Rural road,Empty,No,Poor,17,Not Possible,High
+486,LOC025,K001,Ashford West,Woodland,Low,Yes,Good,10,Not Possible,High
+487,LOC051,K004,Dover North,Lay-by,Thick,No,No light,10,Not Possible,Critical
+488,LOC089,K008,Swale North,Rural road,Medium,Yes,Poor,9,Easy,High
+489,LOC128,K010,Tonbridge & Malling West,Residential street,Low,Yes,No light,4,Easy,High
+490,LOC187,K001,Ashford West,Construction area,Thick,Yes,No light,3,Difficult,Low
+491,LOC030,K003,Dartford South,Rural road,Empty,No,Good,7,Easy,Low
+492,LOC179,K009,Thanet West,Construction area,Thick,Yes,No light,18,Not Possible,Critical
+493,LOC106,K011,Tunbridge Wells East,Woodland,Empty,Yes,No light,15,Difficult,Critical
+494,LOC195,K006,Maidstone East,Industrial estate,Empty,Yes,Good,14,Easy,High
+495,LOC179,K011,Tunbridge Wells North,Commercial area,Thick,No,Good,13,Easy,High
+496,LOC076,K001,Ashford West,Rural road,Medium,No,No light,14,Not Possible,High
+497,LOC130,K010,Tonbridge & Malling West,Woodland,Low,Yes,Good,17,Easy,Critical
+498,LOC053,K012,Folkestone & Hythe South,Industrial estate,Thick,No,Good,5,Not Possible,Low
+499,LOC062,K011,Tunbridge Wells South,Industrial estate,Empty,No,No light,4,Easy,Low
+500,LOC101,K001,Ashford North,Rural Road,Low,Yes,Poor,2,Easy,High
+501,LOC047,K001,Ashford East,Rural road,Thick,Yes,No light,14,Easy,Critical
+502,LOC171,K010,Tonbridge & Malling South,Commercial area,Medium,Yes,Good,13,Easy,Low
+503,LOC058,K011,Tunbridge Wells West,Lay-by,Empty,No,Good,1,Easy,Critical
+504,LOC002,K007,Sevenoaks West,Canal/river side,Low,Yes,Poor,13,Not Possible,Critical
+505,LOC167,K007,Sevenoaks West,Woodland,Thick,Yes,Good,2,Easy,High
+506,LOC052,K009,Thanet East,Rural road,Low,Yes,Good,6,Easy,High
+507,LOC084,K012,Folkestone & Hythe East,Car park,Thick,No,No light,5,Not Possible,High
+508,LOC119,K008,Swale East,Woodland,Thick,No,Good,7,Difficult,Critical
+509,LOC130,K010,Tonbridge & Malling East,Rural Road,Empty,No,Good,7,Not Possible,High
+510,LOC045,K001,Ashford North,Rural Road,Low,No,Good,12,Not Possible,Critical
+511,LOC189,K004,Dover East,Car park,Medium,No,Poor,14,Not Possible,Critical
+512,LOC192,K012,Folkestone & Hythe South,Car park,Low,No,Poor,17,Difficult,High
+513,LOC074,K006,Maidstone East,Rural road,Empty,Yes,Poor,9,Easy,Critical
+514,LOC185,K009,Thanet West,Construction area,Thick,Yes,Good,13,Difficult,Low
+515,LOC126,K006,Maidstone East,Car park,Low,No,Poor,10,Easy,Critical
+516,LOC087,K004,Dover East,Commercial area,Empty,No,Poor,9,Not Possible,Critical
+517,LOC187,K001,Ashford East,Rural road,Low,No,Good,5,Difficult,High
+518,LOC159,K007,Sevenoaks West,Residential street,Low,No,No light,5,Easy,High
+519,LOC005,K010,Tonbridge & Malling South,Woodland,Empty,No,No light,18,Not Possible,Low
+520,LOC078,K003,Dartford South,Woodland,Medium,No,Good,20,Not Possible,High
+521,LOC068,K011,Tunbridge Wells South,Commercial area,Low,No,Good,20,Easy,High
+522,LOC186,K005,Gravesham East,Rural Road,Medium,No,Good,9,Difficult,Critical
+523,LOC116,K010,Tonbridge & Malling South,Lay-by,Medium,No,Good,20,Difficult,Low
+524,LOC178,K007,Sevenoaks South,Commercial area,Empty,Yes,Poor,9,Difficult,Critical
+525,LOC155,K001,Ashford West,Rural road,Medium,Yes,Good,2,Not Possible,High
+526,LOC135,K002,Canterbury East,Rural road,Empty,Yes,Poor,2,Difficult,Critical
+527,LOC039,K004,Dover South,Industrial estate,Medium,Yes,No light,10,Not Possible,Low
+528,LOC037,K006,Maidstone West,Lay-by,Medium,Yes,Good,6,Difficult,Low
+529,LOC054,K008,Swale North,Rural road,Empty,No,Poor,19,Easy,High
+530,LOC060,K001,Ashford West,Industrial estate,Low,Yes,No light,6,Easy,Low
+531,LOC044,K001,Ashford South,Rural Road,Medium,No,Good,10,Not Possible,Critical
+532,LOC045,K004,Dover West,Rural Road,Medium,Yes,No light,9,Difficult,Low
+533,LOC084,K010,Tonbridge & Malling East,Canal/river side,Low,No,No light,19,Difficult,High
+534,LOC059,K004,Dover East,Rural Road,Low,No,No light,17,Not Possible,High
+535,LOC047,K002,Canterbury South,Woodland,Empty,Yes,Poor,18,Difficult,Low
+536,LOC086,K006,Maidstone East,Commercial area,Low,No,Good,18,Difficult,Critical
+537,LOC125,K001,Ashford North,Commercial area,Empty,Yes,Poor,16,Not Possible,High
+538,LOC193,K004,Dover East,Car park,Thick,Yes,Good,8,Easy,Critical
+539,LOC020,K009,Thanet North,Industrial estate,Thick,No,Good,16,Not Possible,Critical
+540,LOC098,K007,Sevenoaks South,Construction area,Empty,No,Good,7,Easy,Critical
+541,LOC014,K010,Tonbridge & Malling North,Construction area,Thick,Yes,Poor,2,Difficult,Low
+542,LOC016,K008,Swale North,Lay-by,Empty,Yes,Good,6,Not Possible,Low
+543,LOC068,K012,Folkestone & Hythe South,Rural road,Empty,No,Poor,4,Not Possible,Critical
+544,LOC147,K006,Maidstone West,Commercial area,Medium,No,No light,14,Easy,Low
+545,LOC056,K009,Thanet South,Car park,Thick,No,Poor,10,Easy,Critical
+546,LOC145,K006,Maidstone North,Rural Road,Low,No,No light,9,Difficult,High
+547,LOC176,K002,Canterbury East,Rural Road,Thick,Yes,Poor,4,Easy,High
+548,LOC174,K009,Thanet East,Canal/river side,Medium,Yes,Poor,1,Not Possible,Critical
+549,LOC189,K009,Thanet East,Construction area,Low,Yes,Good,19,Not Possible,Critical
+550,LOC092,K012,Folkestone & Hythe South,Rural Road,Empty,No,Poor,7,Difficult,Low
+551,LOC084,K012,Folkestone & Hythe East,Industrial estate,Thick,Yes,Poor,2,Not Possible,Low
+552,LOC028,K010,Tonbridge & Malling North,Residential street,Low,No,No light,7,Difficult,High
+553,LOC059,K012,Folkestone & Hythe East,Construction area,Empty,No,Poor,15,Easy,High
+554,LOC012,K001,Ashford North,Rural road,Low,No,Poor,8,Difficult,Low
+555,LOC127,K008,Swale West,Industrial estate,Empty,No,Poor,2,Not Possible,Critical
+556,LOC074,K010,Tonbridge & Malling North,Rural road,Empty,No,Poor,1,Difficult,Critical
+557,LOC081,K012,Folkestone & Hythe North,Car park,Empty,No,No light,7,Easy,Low
+558,LOC096,K003,Dartford North,Rural Road,Empty,Yes,Poor,4,Easy,Critical
+559,LOC095,K005,Gravesham North,Construction area,Thick,Yes,Poor,20,Not Possible,Critical
+560,LOC142,K009,Thanet East,Canal/river side,Low,Yes,Poor,18,Difficult,Low
+561,LOC087,K003,Dartford North,Woodland,Low,Yes,No light,18,Not Possible,Low
+562,LOC083,K004,Dover North,Lay-by,Low,Yes,Poor,1,Difficult,Critical
+563,LOC031,K005,Gravesham South,Car park,Thick,No,Good,9,Not Possible,Low
+564,LOC046,K006,Maidstone North,Commercial area,Thick,No,No light,20,Not Possible,Low
+565,LOC003,K007,Sevenoaks East,Woodland,Empty,No,Good,16,Easy,High
+566,LOC137,K010,Tonbridge & Malling West,Woodland,Medium,Yes,No light,3,Easy,Critical
+567,LOC032,K005,Gravesham North,Commercial area,Thick,Yes,No light,7,Easy,High
+568,LOC066,K008,Swale East,Commercial area,Low,Yes,Poor,9,Easy,Critical
+569,LOC064,K012,Folkestone & Hythe North,Rural Road,Empty,Yes,Good,8,Easy,High
+570,LOC158,K006,Maidstone East,Industrial estate,Empty,Yes,Poor,10,Not Possible,High
+571,LOC020,K008,Swale West,Car park,Low,Yes,Poor,12,Difficult,High
+572,LOC048,K009,Thanet North,Rural Road,Low,Yes,Poor,19,Easy,Critical
+573,LOC034,K011,Tunbridge Wells North,Construction area,Thick,Yes,No light,7,Not Possible,Critical
+574,LOC098,K003,Dartford West,Car park,Empty,No,No light,20,Difficult,Critical
+575,LOC100,K005,Gravesham South,Commercial area,Thick,No,Good,4,Difficult,High
+576,LOC081,K010,Tonbridge & Malling South,Car park,Medium,Yes,Poor,16,Not Possible,Low
+577,LOC194,K001,Ashford North,Lay-by,Thick,Yes,Good,15,Easy,High
+578,LOC161,K009,Thanet North,Industrial estate,Medium,Yes,Poor,20,Difficult,Critical
+579,LOC176,K011,Tunbridge Wells North,Construction area,Low,No,No light,2,Easy,High
+580,LOC120,K005,Gravesham North,Rural Road,Low,Yes,Good,9,Difficult,Critical
+581,LOC097,K009,Thanet South,Lay-by,Medium,No,No light,3,Not Possible,Low
+582,LOC084,K004,Dover West,Canal/river side,Medium,Yes,Good,15,Easy,High
+583,LOC039,K009,Thanet South,Lay-by,Empty,Yes,No light,12,Difficult,Low
+584,LOC060,K007,Sevenoaks East,Car park,Low,No,No light,17,Difficult,High
+585,LOC155,K008,Swale North,Canal/river side,Medium,No,Poor,4,Difficult,High
+586,LOC028,K001,Ashford North,Car park,Medium,Yes,No light,4,Difficult,Critical
+587,LOC011,K001,Ashford East,Construction area,Empty,No,Poor,9,Easy,Critical
+588,LOC048,K002,Canterbury South,Residential street,Low,No,Poor,13,Easy,Critical
+589,LOC168,K003,Dartford North,Residential street,Low,Yes,Poor,12,Difficult,High
+590,LOC163,K012,Folkestone & Hythe West,Commercial area,Medium,Yes,Good,12,Easy,Critical
+591,LOC184,K006,Maidstone West,Commercial area,Empty,No,Poor,3,Easy,Low
+592,LOC058,K012,Folkestone & Hythe East,Rural Road,Medium,Yes,Good,5,Easy,Critical
+593,LOC025,K006,Maidstone North,Rural road,Thick,No,Poor,20,Difficult,Low
+594,LOC187,K001,Ashford West,Lay-by,Empty,No,No light,14,Easy,Critical
+595,LOC058,K002,Canterbury North,Rural road,Low,No,Good,10,Difficult,High
+596,LOC061,K011,Tunbridge Wells West,Construction area,Low,No,Good,17,Difficult,High
+597,LOC167,K005,Gravesham East,Residential street,Thick,Yes,Good,14,Not Possible,Critical
+598,LOC019,K004,Dover West,Commercial area,Low,No,No light,2,Difficult,Low
+599,LOC165,K008,Swale East,Residential street,Empty,Yes,No light,14,Difficult,Critical
+600,LOC128,K011,Tunbridge Wells North,Lay-by,Thick,Yes,Poor,8,Easy,High
+601,LOC110,K006,Maidstone East,Woodland,Low,No,Good,8,Difficult,High
+602,LOC070,K011,Tunbridge Wells South,Rural Road,Low,No,No light,3,Not Possible,Low
+603,LOC020,K004,Dover East,Rural Road,Empty,Yes,Good,14,Easy,High
+604,LOC084,K007,Sevenoaks South,Industrial estate,Empty,Yes,Good,1,Difficult,Critical
+605,LOC121,K008,Swale East,Rural Road,Empty,Yes,No light,12,Easy,Low
+606,LOC059,K011,Tunbridge Wells West,Industrial estate,Empty,Yes,Good,17,Difficult,Critical
+607,LOC200,K003,Dartford West,Industrial estate,Medium,No,Good,1,Not Possible,High
+608,LOC108,K004,Dover North,Rural Road,Empty,Yes,Good,11,Difficult,High
+609,LOC111,K009,Thanet West,Residential street,Low,Yes,No light,18,Difficult,Critical
+610,LOC137,K008,Swale East,Canal/river side,Low,No,No light,3,Difficult,Critical
+611,LOC125,K010,Tonbridge & Malling East,Residential street,Low,No,No light,9,Easy,Low
+612,LOC023,K001,Ashford South,Construction area,Thick,No,Poor,16,Difficult,High
+613,LOC181,K007,Sevenoaks South,Rural road,Thick,Yes,No light,17,Difficult,Critical
+614,LOC026,K010,Tonbridge & Malling North,Commercial area,Low,No,No light,9,Not Possible,Critical
+615,LOC100,K005,Gravesham South,Residential street,Empty,Yes,Poor,17,Difficult,High
+616,LOC188,K002,Canterbury North,Commercial area,Thick,No,No light,15,Difficult,High
+617,LOC161,K004,Dover North,Residential street,Medium,No,Poor,19,Easy,Critical
+618,LOC151,K005,Gravesham North,Rural Road,Empty,No,Poor,15,Easy,Low
+619,LOC090,K011,Tunbridge Wells South,Commercial area,Empty,Yes,No light,17,Not Possible,Critical
+620,LOC104,K008,Swale East,Residential street,Empty,Yes,Good,7,Not Possible,Low
+621,LOC194,K009,Thanet North,Industrial estate,Medium,No,No light,19,Not Possible,Low
+622,LOC061,K009,Thanet South,Industrial estate,Medium,No,Poor,2,Not Possible,High
+623,LOC073,K010,Tonbridge & Malling North,Canal/river side,Medium,No,No light,13,Difficult,Low
+624,LOC010,K011,Tunbridge Wells North,Residential street,Medium,No,Good,3,Difficult,Low
+625,LOC105,K008,Swale East,Commercial area,Low,No,Good,8,Easy,Low
+626,LOC046,K004,Dover East,Lay-by,Medium,Yes,Poor,6,Difficult,Critical
+627,LOC150,K001,Ashford South,Car park,Thick,Yes,Good,10,Difficult,Critical
+628,LOC121,K008,Swale West,Industrial estate,Low,Yes,Good,1,Easy,Low
+629,LOC037,K008,Swale South,Rural road,Empty,Yes,Poor,9,Difficult,Low
+630,LOC142,K001,Ashford South,Construction area,Low,Yes,No light,18,Not Possible,High
+631,LOC168,K007,Sevenoaks East,Rural road,Low,Yes,Poor,17,Easy,Low
+632,LOC093,K011,Tunbridge Wells North,Canal/river side,Empty,Yes,Good,10,Easy,High
+633,LOC106,K001,Ashford South,Construction area,Low,No,Poor,2,Difficult,Low
+634,LOC020,K008,Swale East,Rural Road,Low,No,Good,15,Difficult,Critical
+635,LOC083,K012,Folkestone & Hythe South,Car park,Medium,No,Poor,17,Difficult,High
+636,LOC197,K003,Dartford East,Canal/river side,Empty,Yes,No light,6,Easy,Low
+637,LOC098,K001,Ashford North,Construction area,Medium,No,Good,7,Not Possible,High
+638,LOC048,K010,Tonbridge & Malling North,Residential street,Thick,Yes,No light,9,Easy,Low
+639,LOC050,K012,Folkestone & Hythe West,Residential street,Medium,No,No light,17,Easy,Critical
+640,LOC039,K001,Ashford North,Industrial estate,Medium,Yes,Good,3,Not Possible,High
+641,LOC021,K002,Canterbury North,Rural road,Medium,Yes,Good,11,Easy,Critical
+642,LOC095,K003,Dartford North,Canal/river side,Thick,Yes,Good,16,Easy,Low
+643,LOC038,K011,Tunbridge Wells East,Residential street,Thick,Yes,Good,14,Not Possible,High
+644,LOC179,K012,Folkestone & Hythe North,Woodland,Medium,Yes,Good,4,Not Possible,High
+645,LOC050,K002,Canterbury West,Rural Road,Medium,Yes,Poor,12,Not Possible,Low
+646,LOC195,K004,Dover West,Residential street,Medium,No,No light,19,Not Possible,High
+647,LOC030,K007,Sevenoaks West,Woodland,Low,Yes,Good,14,Easy,High
+648,LOC004,K012,Folkestone & Hythe South,Construction area,Empty,No,Good,5,Not Possible,High
+649,LOC169,K010,Tonbridge & Malling North,Commercial area,Thick,Yes,Poor,12,Difficult,High
+650,LOC037,K011,Tunbridge Wells East,Industrial estate,Thick,No,No light,13,Not Possible,High
+651,LOC153,K002,Canterbury East,Rural road,Empty,No,Poor,3,Difficult,Low
+652,LOC179,K006,Maidstone North,Car park,Medium,No,Good,12,Not Possible,High
+653,LOC066,K012,Folkestone & Hythe East,Rural Road,Medium,Yes,No light,12,Not Possible,Low
+654,LOC075,K005,Gravesham South,Woodland,Medium,No,No light,18,Not Possible,Critical
+655,LOC074,K001,Ashford West,Industrial estate,Medium,Yes,Good,17,Difficult,Low
+656,LOC186,K003,Dartford West,Canal/river side,Empty,Yes,Good,18,Easy,High
+657,LOC139,K007,Sevenoaks West,Woodland,Empty,Yes,Poor,17,Easy,Critical
+658,LOC193,K002,Canterbury South,Residential street,Medium,Yes,No light,3,Easy,Low
+659,LOC196,K004,Dover West,Rural road,Empty,No,Poor,18,Easy,Critical
+660,LOC117,K007,Sevenoaks West,Rural Road,Thick,No,Poor,4,Not Possible,Low
+661,LOC152,K002,Canterbury East,Rural road,Thick,No,Good,1,Not Possible,Low
+662,LOC073,K008,Swale West,Rural Road,Medium,Yes,Good,6,Difficult,Critical
+663,LOC132,K011,Tunbridge Wells North,Rural road,Thick,Yes,Good,4,Difficult,Low
+664,LOC149,K009,Thanet West,Rural road,Medium,Yes,Good,20,Easy,Critical
+665,LOC169,K001,Ashford North,Rural Road,Empty,Yes,Poor,12,Easy,Critical
+666,LOC112,K003,Dartford North,Rural road,Low,Yes,No light,16,Not Possible,Critical
+667,LOC098,K004,Dover East,Construction area,Thick,Yes,No light,12,Easy,High
+668,LOC017,K006,Maidstone South,Rural Road,Low,Yes,No light,18,Easy,Critical
+669,LOC032,K010,Tonbridge & Malling East,Residential street,Medium,Yes,No light,2,Difficult,Critical
+670,LOC158,K006,Maidstone South,Rural road,Thick,Yes,Poor,19,Not Possible,High
+671,LOC098,K010,Tonbridge & Malling West,Rural road,Low,No,No light,3,Difficult,High
+672,LOC117,K006,Maidstone East,Industrial estate,Low,No,No light,12,Not Possible,Low
+673,LOC142,K012,Folkestone & Hythe North,Residential street,Thick,Yes,No light,10,Difficult,Critical
+674,LOC090,K007,Sevenoaks South,Rural road,Low,Yes,No light,8,Easy,Low
+675,LOC064,K001,Ashford East,Rural Road,Low,Yes,Good,10,Easy,Low
+676,LOC158,K003,Dartford East,Lay-by,Thick,Yes,Poor,1,Difficult,Critical
+677,LOC110,K004,Dover North,Lay-by,Medium,No,Poor,19,Difficult,Critical
+678,LOC069,K006,Maidstone East,Construction area,Medium,Yes,Good,17,Not Possible,Low
+679,LOC159,K011,Tunbridge Wells South,Commercial area,Medium,No,Poor,10,Easy,Critical
+680,LOC146,K001,Ashford South,Residential street,Low,No,No light,12,Difficult,High
+681,LOC061,K005,Gravesham South,Commercial area,Empty,No,Good,16,Difficult,Critical
+682,LOC027,K007,Sevenoaks South,Car park,Low,Yes,No light,13,Not Possible,High
+683,LOC037,K005,Gravesham South,Construction area,Thick,Yes,No light,16,Difficult,High
+684,LOC049,K012,Folkestone & Hythe West,Lay-by,Low,Yes,Good,15,Difficult,Low
+685,LOC132,K007,Sevenoaks South,Commercial area,Thick,Yes,Good,12,Difficult,Low
+686,LOC152,K001,Ashford West,Residential street,Medium,Yes,No light,13,Not Possible,Critical
+687,LOC111,K007,Sevenoaks West,Industrial estate,Thick,Yes,Poor,1,Difficult,Critical
+688,LOC081,K010,Tonbridge & Malling West,Car park,Thick,Yes,Poor,10,Easy,Low
+689,LOC020,K004,Dover South,Woodland,Empty,No,Good,8,Not Possible,Critical
+690,LOC156,K003,Dartford South,Rural Road,Thick,No,No light,15,Difficult,Critical
+691,LOC184,K005,Gravesham South,Industrial estate,Empty,Yes,Good,12,Easy,Critical
+692,LOC075,K001,Ashford West,Commercial area,Empty,Yes,No light,7,Easy,High
+693,LOC070,K011,Tunbridge Wells West,Car park,Medium,Yes,Poor,11,Difficult,High
+694,LOC100,K002,Canterbury West,Lay-by,Medium,No,Good,1,Easy,High
+695,LOC106,K005,Gravesham West,Woodland,Thick,Yes,No light,19,Not Possible,Low
+696,LOC130,K009,Thanet East,Rural Road,Medium,No,No light,5,Easy,Critical
+697,LOC020,K010,Tonbridge & Malling South,Canal/river side,Medium,No,No light,15,Not Possible,Low
+698,LOC054,K001,Ashford South,Residential street,Empty,No,No light,9,Difficult,Critical
+699,LOC082,K004,Dover North,Residential street,Low,No,Good,17,Not Possible,Low
+700,LOC116,K005,Gravesham South,Rural road,Low,No,No light,8,Not Possible,High
+701,LOC107,K002,Canterbury South,Lay-by,Medium,Yes,No light,12,Easy,Critical
+702,LOC132,K012,Folkestone & Hythe East,Canal/river side,Empty,No,Good,13,Difficult,Low
+703,LOC129,K006,Maidstone South,Lay-by,Empty,Yes,Poor,13,Difficult,Critical
+704,LOC095,K007,Sevenoaks West,Canal/river side,Medium,No,Poor,6,Not Possible,High
+705,LOC182,K008,Swale South,Industrial estate,Medium,Yes,No light,17,Difficult,High
+706,LOC049,K003,Dartford West,Rural road,Medium,No,Good,18,Not Possible,Critical
+707,LOC139,K009,Thanet South,Residential street,Medium,Yes,Poor,10,Easy,Low
+708,LOC092,K004,Dover South,Lay-by,Low,Yes,No light,13,Difficult,Low
+709,LOC065,K008,Swale South,Rural Road,Medium,Yes,Good,15,Easy,Low
+710,LOC006,K012,Folkestone & Hythe South,Lay-by,Thick,No,Poor,5,Difficult,Low
+711,LOC117,K007,Sevenoaks South,Commercial area,Medium,Yes,No light,19,Easy,Critical
+712,LOC191,K010,Tonbridge & Malling West,Commercial area,Low,Yes,Good,4,Easy,Low
+713,LOC044,K009,Thanet South,Rural road,Thick,No,No light,1,Difficult,Critical
+714,LOC059,K012,Folkestone & Hythe West,Canal/river side,Medium,Yes,No light,19,Difficult,Low
+715,LOC156,K007,Sevenoaks North,Canal/river side,Medium,Yes,Poor,7,Easy,Low
+716,LOC081,K005,Gravesham East,Residential street,Thick,Yes,Poor,7,Not Possible,High
+717,LOC130,K001,Ashford West,Rural Road,Empty,No,No light,8,Easy,High
+718,LOC071,K012,Folkestone & Hythe West,Canal/river side,Thick,No,Poor,2,Difficult,Critical
+719,LOC150,K011,Tunbridge Wells North,Construction area,Low,Yes,Good,1,Not Possible,Low
+720,LOC124,K008,Swale North,Rural Road,Thick,No,Good,6,Not Possible,Low
+721,LOC006,K007,Sevenoaks West,Car park,Low,Yes,Good,3,Not Possible,High
+722,LOC091,K004,Dover West,Commercial area,Low,Yes,No light,7,Easy,Low
+723,LOC155,K002,Canterbury East,Construction area,Empty,Yes,No light,15,Easy,Critical
+724,LOC083,K006,Maidstone North,Woodland,Thick,No,Good,12,Difficult,High
+725,LOC162,K007,Sevenoaks West,Car park,Medium,Yes,No light,14,Easy,High
+726,LOC107,K003,Dartford East,Car park,Medium,No,No light,8,Easy,Low
+727,LOC154,K003,Dartford East,Woodland,Low,Yes,No light,12,Easy,High
+728,LOC078,K012,Folkestone & Hythe North,Car park,Thick,Yes,Good,16,Difficult,Low
+729,LOC184,K002,Canterbury North,Residential street,Empty,No,Good,13,Easy,Critical
+730,LOC104,K002,Canterbury South,Commercial area,Medium,Yes,Good,5,Easy,Low
+731,LOC109,K008,Swale West,Car park,Medium,Yes,Good,1,Not Possible,Low
+732,LOC061,K012,Folkestone & Hythe North,Car park,Low,Yes,Poor,13,Not Possible,Critical
+733,LOC184,K002,Canterbury East,Canal/river side,Empty,No,No light,18,Difficult,Critical
+734,LOC148,K007,Sevenoaks South,Rural Road,Thick,No,No light,5,Difficult,High
+735,LOC115,K008,Swale South,Commercial area,Thick,No,Poor,7,Not Possible,High
+736,LOC101,K003,Dartford West,Rural Road,Medium,Yes,No light,11,Difficult,Critical
+737,LOC194,K003,Dartford West,Construction area,Thick,No,No light,9,Easy,Low
+738,LOC125,K007,Sevenoaks West,Car park,Empty,Yes,No light,3,Easy,High
+739,LOC010,K004,Dover South,Woodland,Medium,Yes,Poor,9,Easy,High
+740,LOC056,K007,Sevenoaks North,Residential street,Empty,Yes,Poor,9,Easy,Low
+741,LOC137,K012,Folkestone & Hythe North,Woodland,Low,No,No light,2,Not Possible,High
+742,LOC129,K003,Dartford West,Woodland,Empty,No,Good,11,Easy,Critical
+743,LOC044,K007,Sevenoaks West,Rural Road,Medium,No,No light,20,Difficult,High
+744,LOC049,K001,Ashford East,Commercial area,Low,No,Good,13,Not Possible,Critical
+745,LOC022,K005,Gravesham North,Lay-by,Medium,Yes,Good,4,Difficult,Critical
+746,LOC023,K002,Canterbury East,Canal/river side,Low,No,Poor,12,Easy,Critical
+747,LOC197,K011,Tunbridge Wells East,Construction area,Thick,Yes,No light,14,Difficult,Critical
+748,LOC199,K004,Dover South,Rural Road,Thick,Yes,No light,6,Not Possible,Critical
+749,LOC096,K007,Sevenoaks South,Rural road,Medium,Yes,No light,16,Difficult,High
+750,LOC053,K005,Gravesham North,Commercial area,Medium,Yes,No light,1,Difficult,High
+751,LOC008,K010,Tonbridge & Malling East,Rural Road,Thick,Yes,Poor,3,Difficult,Critical
+752,LOC071,K011,Tunbridge Wells South,Residential street,Medium,No,No light,15,Not Possible,Low
+753,LOC067,K005,Gravesham North,Car park,Low,Yes,Good,5,Not Possible,Critical
+754,LOC150,K009,Thanet East,Rural Road,Empty,No,Poor,2,Easy,Critical
+755,LOC065,K001,Ashford North,Rural road,Empty,Yes,No light,16,Not Possible,Critical
+756,LOC185,K012,Folkestone & Hythe North,Rural Road,Low,No,Poor,20,Not Possible,Low
+757,LOC053,K007,Sevenoaks East,Canal/river side,Low,Yes,Poor,12,Easy,Low
+758,LOC026,K003,Dartford South,Woodland,Medium,Yes,Good,9,Not Possible,Critical
+759,LOC176,K003,Dartford East,Car park,Empty,Yes,No light,4,Difficult,Low
+760,LOC092,K008,Swale West,Industrial estate,Medium,No,No light,16,Difficult,Critical
+761,LOC154,K009,Thanet East,Canal/river side,Medium,Yes,Poor,4,Difficult,Critical
+762,LOC062,K004,Dover East,Car park,Low,Yes,No light,1,Not Possible,Critical
+763,LOC077,K001,Ashford North,Construction area,Empty,No,No light,20,Difficult,High
+764,LOC108,K005,Gravesham North,Lay-by,Empty,No,No light,10,Difficult,Low
+765,LOC102,K010,Tonbridge & Malling North,Construction area,Medium,Yes,No light,13,Not Possible,High
+766,LOC009,K002,Canterbury East,Industrial estate,Medium,Yes,No light,18,Easy,Low
+767,LOC028,K002,Canterbury North,Car park,Empty,Yes,Good,10,Easy,High
+768,LOC063,K004,Dover North,Woodland,Empty,No,No light,8,Difficult,Critical
+769,LOC074,K010,Tonbridge & Malling North,Lay-by,Medium,No,Good,18,Easy,High
+770,LOC062,K010,Tonbridge & Malling West,Woodland,Medium,No,No light,12,Easy,Critical
+771,LOC160,K002,Canterbury South,Rural road,Thick,Yes,No light,4,Difficult,Low
+772,LOC069,K002,Canterbury East,Commercial area,Empty,No,Good,12,Difficult,Low
+773,LOC056,K008,Swale West,Commercial area,Low,No,No light,1,Not Possible,Low
+774,LOC009,K010,Tonbridge & Malling East,Residential street,Low,No,No light,3,Difficult,Low
+775,LOC198,K011,Tunbridge Wells West,Woodland,Medium,No,No light,8,Difficult,High
+776,LOC038,K005,Gravesham East,Industrial estate,Empty,No,Poor,16,Not Possible,High
+777,LOC002,K009,Thanet North,Commercial area,Low,No,Poor,19,Not Possible,Low
+778,LOC199,K008,Swale North,Commercial area,Empty,Yes,Good,2,Difficult,Low
+779,LOC174,K009,Thanet North,Rural road,Empty,No,Poor,20,Difficult,High
+780,LOC168,K006,Maidstone West,Residential street,Medium,No,Poor,15,Easy,Critical
+781,LOC165,K010,Tonbridge & Malling West,Rural road,Low,Yes,Good,19,Not Possible,High
+782,LOC116,K012,Folkestone & Hythe South,Industrial estate,Low,Yes,Poor,14,Easy,Low
+783,LOC062,K003,Dartford North,Industrial estate,Medium,Yes,Good,2,Difficult,High
+784,LOC011,K004,Dover West,Canal/river side,Thick,Yes,Poor,18,Not Possible,Critical
+785,LOC021,K008,Swale West,Rural road,Thick,Yes,Poor,20,Not Possible,Low
+786,LOC003,K009,Thanet West,Commercial area,Empty,Yes,Poor,7,Not Possible,Critical
+787,LOC067,K007,Sevenoaks East,Commercial area,Thick,Yes,Poor,16,Difficult,Low
+788,LOC104,K011,Tunbridge Wells North,Woodland,Thick,Yes,Poor,5,Not Possible,High
+789,LOC007,K005,Gravesham East,Lay-by,Thick,No,No light,7,Easy,High
+790,LOC022,K011,Tunbridge Wells East,Rural road,Thick,Yes,No light,8,Not Possible,Low
+791,LOC090,K002,Canterbury South,Rural road,Empty,No,Poor,16,Difficult,Critical
+792,LOC196,K011,Tunbridge Wells South,Lay-by,Empty,No,Poor,10,Easy,Critical
+793,LOC143,K012,Folkestone & Hythe South,Car park,Medium,No,Good,8,Difficult,High
+794,LOC100,K005,Gravesham East,Residential street,Low,No,Poor,8,Difficult,Low
+795,LOC077,K008,Swale West,Construction area,Medium,Yes,No light,17,Difficult,High
+796,LOC067,K012,Folkestone & Hythe South,Commercial area,Medium,Yes,Good,12,Difficult,High
+797,LOC167,K001,Ashford West,Car park,Low,No,No light,17,Difficult,High
+798,LOC113,K003,Dartford West,Industrial estate,Medium,Yes,Poor,11,Not Possible,Low
+799,LOC097,K008,Swale North,Rural Road,Low,Yes,No light,11,Not Possible,Critical
+800,LOC124,K012,Folkestone & Hythe North,Construction area,Medium,Yes,Poor,18,Easy,High
+801,LOC001,K003,Dartford West,Rural Road,Medium,Yes,No light,9,Difficult,Low
+802,LOC139,K004,Dover South,Construction area,Empty,No,Good,12,Difficult,Critical
+803,LOC089,K006,Maidstone North,Canal/river side,Thick,Yes,Poor,19,Easy,High
+804,LOC183,K003,Dartford West,Car park,Empty,Yes,Poor,18,Easy,Critical
+805,LOC068,K004,Dover West,Construction area,Empty,No,Poor,7,Difficult,Critical
+806,LOC073,K005,Gravesham East,Rural Road,Empty,Yes,Poor,19,Not Possible,High
+807,LOC190,K011,Tunbridge Wells South,Industrial estate,Low,Yes,No light,3,Easy,High
+808,LOC002,K001,Ashford West,Car park,Medium,No,No light,3,Difficult,High
+809,LOC054,K006,Maidstone West,Woodland,Empty,No,Poor,3,Not Possible,Low
+810,LOC131,K003,Dartford West,Lay-by,Low,No,No light,7,Difficult,High
+811,LOC079,K005,Gravesham East,Construction area,Thick,Yes,Good,8,Easy,Critical
+812,LOC022,K006,Maidstone South,Commercial area,Low,No,No light,3,Easy,Critical
+813,LOC042,K008,Swale West,Woodland,Empty,No,No light,6,Easy,High
+814,LOC164,K009,Thanet North,Rural Road,Low,Yes,Good,19,Difficult,Low
+815,LOC119,K011,Tunbridge Wells South,Lay-by,Thick,No,Good,12,Difficult,Critical
+816,LOC112,K011,Tunbridge Wells East,Canal/river side,Empty,No,Good,5,Easy,High
+817,LOC118,K005,Gravesham North,Residential street,Medium,No,Good,18,Not Possible,High
+818,LOC021,K007,Sevenoaks South,Rural road,Empty,Yes,No light,5,Easy,Low
+819,LOC025,K008,Swale South,Construction area,Medium,No,No light,10,Easy,High
+820,LOC197,K004,Dover South,Industrial estate,Medium,No,Poor,12,Difficult,High
+821,LOC073,K001,Ashford South,Woodland,Low,No,No light,15,Easy,Low
+822,LOC074,K005,Gravesham North,Lay-by,Thick,Yes,Poor,20,Difficult,Critical
+823,LOC146,K009,Thanet West,Canal/river side,Medium,Yes,Poor,5,Easy,Low
+824,LOC194,K001,Ashford South,Car park,Thick,Yes,Good,20,Not Possible,High
+825,LOC012,K003,Dartford East,Car park,Medium,Yes,Good,15,Easy,Critical
+826,LOC140,K007,Sevenoaks West,Industrial estate,Thick,No,Poor,14,Easy,Critical
+827,LOC008,K008,Swale West,Car park,Low,No,No light,3,Not Possible,Low
+828,LOC121,K012,Folkestone & Hythe South,Woodland,Empty,No,Poor,9,Not Possible,High
+829,LOC110,K005,Gravesham South,Residential street,Low,Yes,No light,12,Easy,High
+830,LOC055,K004,Dover West,Lay-by,Thick,Yes,Poor,11,Difficult,Critical
+831,LOC100,K009,Thanet West,Commercial area,Low,No,No light,2,Not Possible,High
+832,LOC019,K001,Ashford East,Canal/river side,Low,No,Good,1,Easy,Critical
+833,LOC186,K012,Folkestone & Hythe East,Lay-by,Thick,No,Poor,8,Easy,Low
+834,LOC064,K006,Maidstone West,Commercial area,Thick,No,Poor,10,Not Possible,High
+835,LOC111,K012,Folkestone & Hythe East,Commercial area,Empty,Yes,No light,19,Not Possible,Critical
+836,LOC138,K008,Swale North,Rural Road,Low,Yes,Poor,18,Not Possible,High
+837,LOC009,K009,Thanet East,Woodland,Empty,Yes,Poor,15,Difficult,High
+838,LOC189,K010,Tonbridge & Malling West,Car park,Medium,Yes,No light,4,Easy,Critical
+839,LOC087,K001,Ashford South,Rural road,Low,Yes,No light,17,Easy,High
+840,LOC113,K007,Sevenoaks North,Car park,Medium,Yes,No light,9,Easy,Critical
+841,LOC122,K008,Swale East,Industrial estate,Empty,Yes,No light,3,Difficult,High
+842,LOC192,K005,Gravesham East,Canal/river side,Medium,No,Poor,15,Difficult,Critical
+843,LOC160,K008,Swale East,Lay-by,Empty,Yes,Poor,1,Not Possible,High
+844,LOC124,K002,Canterbury East,Woodland,Thick,Yes,No light,4,Difficult,Critical
+845,LOC136,K001,Ashford North,Rural Road,Empty,Yes,No light,3,Not Possible,High
+846,LOC198,K005,Gravesham North,Canal/river side,Empty,No,No light,5,Difficult,High
+847,LOC115,K005,Gravesham West,Canal/river side,Low,No,No light,7,Not Possible,Critical
+848,LOC155,K008,Swale West,Industrial estate,Thick,No,Good,13,Not Possible,Critical
+849,LOC086,K012,Folkestone & Hythe North,Canal/river side,Low,Yes,No light,20,Easy,Critical
+850,LOC082,K006,Maidstone North,Canal/river side,Low,Yes,No light,13,Easy,High
+851,LOC032,K005,Gravesham West,Car park,Low,Yes,Poor,19,Not Possible,High
+852,LOC176,K006,Maidstone West,Woodland,Low,Yes,No light,10,Not Possible,High
+853,LOC175,K001,Ashford South,Canal/river side,Empty,Yes,No light,1,Easy,Critical
+854,LOC058,K008,Swale West,Woodland,Empty,No,No light,8,Not Possible,High
+855,LOC096,K009,Thanet South,Lay-by,Low,Yes,Good,11,Easy,High
+856,LOC113,K009,Thanet North,Rural road,Low,No,Good,7,Difficult,High
+857,LOC026,K010,Tonbridge & Malling West,Rural Road,Medium,Yes,No light,18,Easy,Critical
+858,LOC179,K010,Tonbridge & Malling West,Commercial area,Low,No,Poor,4,Difficult,High
+859,LOC158,K012,Folkestone & Hythe West,Rural Road,Empty,Yes,Poor,10,Easy,High
+860,LOC125,K002,Canterbury North,Rural Road,Thick,No,Poor,16,Difficult,High
+861,LOC053,K012,Folkestone & Hythe West,Rural road,Thick,Yes,Good,18,Not Possible,High
+862,LOC080,K012,Folkestone & Hythe West,Rural road,Thick,No,No light,8,Difficult,High
+863,LOC158,K009,Thanet North,Rural road,Empty,No,No light,2,Difficult,Low
+864,LOC049,K006,Maidstone North,Residential street,Medium,No,Poor,18,Difficult,High
+865,LOC038,K012,Folkestone & Hythe West,Rural road,Medium,Yes,Poor,20,Not Possible,Critical
+866,LOC066,K006,Maidstone East,Rural road,Thick,No,Good,14,Not Possible,Low
+867,LOC061,K012,Folkestone & Hythe South,Commercial area,Low,Yes,Poor,1,Difficult,Critical
+868,LOC157,K001,Ashford East,Woodland,Thick,Yes,Poor,20,Not Possible,High
+869,LOC114,K012,Folkestone & Hythe West,Canal/river side,Medium,No,No light,2,Easy,Low
+870,LOC160,K003,Dartford East,Commercial area,Thick,Yes,No light,2,Difficult,High
+871,LOC124,K004,Dover North,Industrial estate,Medium,No,Poor,11,Not Possible,Low
+872,LOC120,K002,Canterbury East,Woodland,Thick,Yes,Good,9,Difficult,Critical
+873,LOC106,K012,Folkestone & Hythe East,Industrial estate,Thick,No,Poor,17,Easy,High
+874,LOC139,K010,Tonbridge & Malling East,Lay-by,Low,Yes,No light,14,Difficult,Critical
+875,LOC074,K006,Maidstone West,Rural road,Medium,No,Good,16,Not Possible,High
+876,LOC021,K008,Swale West,Residential street,Empty,Yes,No light,3,Not Possible,High
+877,LOC111,K010,Tonbridge & Malling East,Rural road,Low,No,Good,6,Not Possible,Low
+878,LOC020,K008,Swale East,Woodland,Thick,No,Poor,8,Not Possible,High
+879,LOC135,K004,Dover South,Canal/river side,Empty,Yes,No light,17,Easy,High
+880,LOC007,K012,Folkestone & Hythe East,Car park,Medium,Yes,Poor,20,Easy,High
+881,LOC128,K008,Swale South,Car park,Empty,Yes,Good,18,Easy,Critical
+882,LOC029,K005,Gravesham North,Canal/river side,Medium,No,Good,12,Not Possible,High
+883,LOC075,K001,Ashford South,Woodland,Medium,Yes,Poor,4,Difficult,High
+884,LOC056,K012,Folkestone & Hythe East,Industrial estate,Low,No,No light,19,Difficult,Low
+885,LOC066,K003,Dartford East,Lay-by,Thick,Yes,Poor,14,Difficult,Low
+886,LOC171,K006,Maidstone West,Residential street,Low,No,Poor,20,Not Possible,Low
+887,LOC103,K011,Tunbridge Wells South,Construction area,Low,Yes,Poor,14,Easy,Low
+888,LOC004,K005,Gravesham South,Lay-by,Medium,Yes,Poor,19,Difficult,Low
+889,LOC044,K005,Gravesham South,Rural road,Empty,No,Good,1,Difficult,High
+890,LOC010,K006,Maidstone North,Industrial estate,Low,No,No light,12,Easy,Critical
+891,LOC018,K006,Maidstone North,Canal/river side,Thick,No,Poor,8,Easy,High
+892,LOC023,K011,Tunbridge Wells South,Car park,Thick,No,Good,19,Difficult,High
+893,LOC039,K005,Gravesham East,Construction area,Thick,No,Poor,13,Easy,Low
+894,LOC175,K003,Dartford North,Car park,Medium,Yes,Good,9,Not Possible,Critical
+895,LOC006,K012,Folkestone & Hythe North,Car park,Medium,Yes,No light,4,Not Possible,Low
+896,LOC098,K006,Maidstone West,Lay-by,Low,No,No light,2,Easy,Critical
+897,LOC074,K010,Tonbridge & Malling North,Canal/river side,Low,No,Good,18,Difficult,Low
+898,LOC023,K012,Folkestone & Hythe West,Lay-by,Low,No,No light,2,Difficult,Critical
+899,LOC167,K001,Ashford East,Rural Road,Medium,No,Poor,5,Difficult,Critical
+900,LOC103,K009,Thanet South,Woodland,Thick,Yes,Poor,14,Not Possible,Low
+901,LOC005,K010,Tonbridge & Malling East,Residential street,Medium,No,Good,2,Not Possible,Critical
+902,LOC133,K012,Folkestone & Hythe South,Commercial area,Medium,Yes,No light,18,Difficult,Critical
+903,LOC117,K007,Sevenoaks West,Construction area,Empty,No,Poor,20,Not Possible,Critical
+904,LOC153,K008,Swale South,Rural Road,Empty,No,Good,16,Difficult,Critical
+905,LOC083,K009,Thanet West,Woodland,Thick,No,No light,19,Not Possible,High
+906,LOC182,K008,Swale West,Woodland,Low,Yes,Good,8,Easy,Critical
+907,LOC186,K006,Maidstone South,Construction area,Empty,No,No light,2,Easy,Critical
+908,LOC091,K003,Dartford North,Construction area,Thick,No,Poor,6,Easy,Low
+909,LOC044,K009,Thanet South,Lay-by,Low,Yes,Poor,6,Difficult,High
+910,LOC080,K009,Thanet East,Industrial estate,Thick,Yes,Good,10,Not Possible,Critical
+911,LOC031,K011,Tunbridge Wells West,Industrial estate,Thick,No,No light,17,Difficult,Low
+912,LOC186,K005,Gravesham North,Rural road,Low,Yes,Poor,1,Difficult,High
+913,LOC062,K004,Dover East,Construction area,Low,Yes,Good,2,Difficult,Critical
+914,LOC014,K011,Tunbridge Wells West,Lay-by,Medium,No,Good,16,Difficult,Low
+915,LOC163,K003,Dartford East,Canal/river side,Medium,Yes,Good,4,Not Possible,Low
+916,LOC130,K001,Ashford West,Rural road,Thick,No,Good,9,Easy,Low
+917,LOC110,K007,Sevenoaks East,Canal/river side,Medium,Yes,No light,8,Difficult,High
+918,LOC122,K002,Canterbury West,Residential street,Medium,No,Good,17,Difficult,Critical
+919,LOC078,K006,Maidstone West,Woodland,Medium,Yes,Good,7,Difficult,High
+920,LOC129,K001,Ashford North,Construction area,Thick,No,No light,10,Difficult,Critical
+921,LOC110,K011,Tunbridge Wells West,Canal/river side,Empty,No,Poor,19,Easy,Critical
+922,LOC164,K003,Dartford South,Construction area,Medium,No,No light,1,Not Possible,Critical
+923,LOC135,K010,Tonbridge & Malling East,Rural Road,Low,Yes,No light,20,Easy,Critical
+924,LOC182,K001,Ashford North,Residential street,Empty,Yes,Good,17,Not Possible,High
+925,LOC128,K002,Canterbury East,Lay-by,Thick,Yes,No light,2,Easy,High
+926,LOC002,K006,Maidstone North,Lay-by,Low,Yes,Poor,13,Easy,Critical
+927,LOC120,K007,Sevenoaks West,Rural Road,Medium,Yes,Good,13,Not Possible,Low
+928,LOC188,K004,Dover East,Lay-by,Empty,Yes,No light,19,Easy,Critical
+929,LOC155,K006,Maidstone North,Commercial area,Medium,Yes,Good,1,Easy,High
+930,LOC187,K002,Canterbury East,Canal/river side,Thick,Yes,No light,16,Difficult,High
+931,LOC126,K011,Tunbridge Wells West,Commercial area,Thick,No,No light,7,Easy,Low
+932,LOC015,K010,Tonbridge & Malling South,Residential street,Thick,Yes,Poor,9,Not Possible,Critical
+933,LOC118,K007,Sevenoaks East,Rural Road,Thick,No,Poor,2,Difficult,High
+934,LOC043,K008,Swale East,Construction area,Thick,No,No light,10,Difficult,High
+935,LOC132,K007,Sevenoaks South,Construction area,Medium,Yes,No light,13,Difficult,High
+936,LOC197,K008,Swale East,Construction area,Low,Yes,No light,12,Not Possible,High
+937,LOC039,K010,Tonbridge & Malling North,Lay-by,Empty,No,Poor,7,Not Possible,High
+938,LOC097,K012,Folkestone & Hythe North,Construction area,Low,Yes,Good,1,Difficult,Critical
+939,LOC123,K007,Sevenoaks West,Woodland,Thick,Yes,Poor,11,Not Possible,High
+940,LOC059,K011,Tunbridge Wells South,Woodland,Thick,No,Poor,18,Easy,Critical
+941,LOC154,K007,Sevenoaks South,Rural Road,Empty,Yes,No light,7,Not Possible,Critical
+942,LOC134,K009,Thanet South,Residential street,Low,Yes,No light,19,Easy,High
+943,LOC125,K012,Folkestone & Hythe South,Canal/river side,Empty,Yes,No light,16,Not Possible,Low
+944,LOC184,K005,Gravesham South,Lay-by,Thick,Yes,Good,7,Difficult,High
+945,LOC196,K007,Sevenoaks North,Rural Road,Empty,No,No light,2,Easy,Critical
+946,LOC040,K011,Tunbridge Wells North,Industrial estate,Low,Yes,No light,1,Not Possible,Critical
+947,LOC008,K008,Swale South,Industrial estate,Empty,No,Good,9,Not Possible,High
+948,LOC032,K006,Maidstone East,Industrial estate,Low,Yes,No light,6,Not Possible,High
+949,LOC097,K009,Thanet South,Car park,Medium,No,Poor,19,Difficult,Low
+950,LOC099,K001,Ashford East,Woodland,Medium,No,No light,11,Not Possible,Critical
+951,LOC200,K002,Canterbury South,Woodland,Medium,Yes,Good,19,Easy,Critical
+952,LOC074,K007,Sevenoaks South,Rural road,Empty,No,Good,8,Easy,Low
+953,LOC026,K001,Ashford West,Car park,Empty,No,Poor,5,Easy,Critical
+954,LOC035,K004,Dover East,Lay-by,Empty,No,No light,3,Easy,Low
+955,LOC056,K006,Maidstone South,Car park,Thick,No,Good,18,Easy,High
+956,LOC094,K009,Thanet West,Commercial area,Low,No,Good,6,Easy,High
+957,LOC004,K005,Gravesham South,Woodland,Medium,Yes,No light,18,Difficult,Low
+958,LOC022,K006,Maidstone East,Rural road,Low,Yes,Good,8,Difficult,High
+959,LOC021,K009,Thanet North,Construction area,Medium,Yes,Poor,14,Difficult,High
+960,LOC148,K006,Maidstone West,Rural Road,Medium,No,No light,1,Not Possible,Low
+961,LOC184,K011,Tunbridge Wells East,Residential street,Thick,No,No light,14,Not Possible,Low
+962,LOC131,K001,Ashford West,Canal/river side,Empty,Yes,Poor,10,Not Possible,Low
+963,LOC051,K006,Maidstone East,Commercial area,Low,Yes,No light,4,Not Possible,Low
+964,LOC168,K009,Thanet West,Canal/river side,Empty,Yes,No light,8,Difficult,Low
+965,LOC156,K002,Canterbury West,Woodland,Low,Yes,No light,11,Easy,Low
+966,LOC053,K005,Gravesham North,Rural road,Low,No,Poor,15,Easy,Critical
+967,LOC154,K003,Dartford East,Rural Road,Medium,No,Good,5,Not Possible,Low
+968,LOC066,K002,Canterbury East,Rural Road,Empty,Yes,No light,10,Not Possible,Critical
+969,LOC050,K004,Dover West,Woodland,Medium,No,Poor,15,Not Possible,Low
+970,LOC051,K005,Gravesham East,Construction area,Medium,No,No light,16,Difficult,Low
+971,LOC031,K010,Tonbridge & Malling West,Construction area,Thick,Yes,Good,2,Difficult,High
+972,LOC046,K011,Tunbridge Wells South,Industrial estate,Low,Yes,No light,8,Difficult,Low
+973,LOC196,K004,Dover South,Woodland,Empty,Yes,Good,4,Not Possible,Low
+974,LOC163,K001,Ashford South,Commercial area,Low,No,No light,20,Easy,Critical
+975,LOC051,K004,Dover West,Residential street,Empty,No,Good,16,Not Possible,High
+976,LOC057,K012,Folkestone & Hythe West,Rural Road,Empty,Yes,Good,12,Easy,Low
+977,LOC085,K007,Sevenoaks East,Canal/river side,Empty,Yes,Good,10,Easy,Low
+978,LOC052,K011,Tunbridge Wells West,Industrial estate,Empty,Yes,Poor,11,Difficult,Critical
+979,LOC153,K003,Dartford North,Lay-by,Medium,Yes,Good,19,Difficult,Low
+980,LOC121,K007,Sevenoaks North,Canal/river side,Empty,Yes,No light,11,Easy,Critical
+981,LOC030,K008,Swale West,Lay-by,Medium,Yes,No light,20,Difficult,Low
+982,LOC103,K002,Canterbury West,Canal/river side,Empty,Yes,No light,14,Difficult,Critical
+983,LOC166,K002,Canterbury North,Car park,Low,No,No light,11,Difficult,Critical
+984,LOC041,K007,Sevenoaks North,Woodland,Empty,Yes,Good,12,Easy,Critical
+985,LOC073,K005,Gravesham West,Construction area,Low,Yes,Good,13,Easy,Low
+986,LOC147,K004,Dover West,Construction area,Medium,No,Poor,12,Easy,Critical
+987,LOC027,K008,Swale West,Industrial estate,Medium,No,Good,9,Easy,Critical
+988,LOC068,K006,Maidstone East,Residential street,Empty,Yes,No light,17,Not Possible,Low
+989,LOC038,K008,Swale North,Residential street,Medium,No,No light,16,Easy,High
+990,LOC110,K011,Tunbridge Wells North,Construction area,Medium,Yes,Poor,9,Easy,Low
+991,LOC197,K006,Maidstone West,Canal/river side,Low,No,Poor,8,Difficult,Low
+992,LOC194,K001,Ashford South,Lay-by,Empty,No,Good,7,Easy,Critical
+993,LOC142,K012,Folkestone & Hythe North,Rural Road,Low,No,Good,11,Easy,Low
+994,LOC028,K004,Dover East,Industrial estate,Medium,No,Good,20,Not Possible,Critical
+995,LOC165,K006,Maidstone West,Woodland,Thick,No,No light,14,Easy,Critical
+996,LOC157,K008,Swale East,Rural Road,Medium,No,Good,9,Easy,Low
+997,LOC002,K009,Thanet West,Canal/river side,Empty,Yes,Good,4,Not Possible,Low
+998,LOC110,K010,Tonbridge & Malling East,Woodland,Medium,No,Poor,18,Difficult,Critical
+999,LOC083,K004,Dover West,Lay-by,Low,Yes,Poor,1,Easy,Low
+1000,LOC099,K001,Ashford East,Car park,Low,No,Good,3,Not Possible,Low
+1001,LOC117,K002,Canterbury South,Rural road,Low,Yes,No light,12,Not Possible,Critical
+1002,LOC190,K003,Dartford East,Rural road,Thick,No,Poor,7,Not Possible,High
+1003,LOC174,K003,Dartford North,Residential street,Low,No,Poor,20,Difficult,Critical
+1004,LOC035,K009,Thanet South,Woodland,Thick,Yes,No light,17,Easy,Low
+1005,LOC046,K010,Tonbridge & Malling North,Rural road,Medium,No,Poor,19,Difficult,Critical
+1006,LOC068,K009,Thanet East,Canal/river side,Medium,No,Poor,8,Easy,Low
+1007,LOC102,K002,Canterbury South,Rural Road,Empty,Yes,Poor,4,Easy,High
+1008,LOC167,K007,Sevenoaks West,Lay-by,Empty,Yes,Good,3,Not Possible,High
+1009,LOC110,K001,Ashford West,Lay-by,Medium,Yes,No light,1,Difficult,High
+1010,LOC015,K009,Thanet East,Rural Road,Thick,No,Poor,8,Not Possible,Critical
+1011,LOC085,K006,Maidstone South,Industrial estate,Low,No,Poor,16,Difficult,Low
+1012,LOC119,K008,Swale East,Commercial area,Thick,Yes,Poor,19,Difficult,High
+1013,LOC165,K001,Ashford South,Rural Road,Empty,No,No light,3,Difficult,Critical
+1014,LOC130,K004,Dover West,Rural road,Medium,Yes,No light,17,Difficult,Critical
+1015,LOC157,K012,Folkestone & Hythe North,Canal/river side,Medium,Yes,No light,20,Difficult,High
+1016,LOC134,K006,Maidstone West,Rural road,Low,No,Poor,8,Difficult,Critical
+1017,LOC007,K008,Swale South,Car park,Thick,No,Good,18,Easy,High
+1018,LOC010,K008,Swale South,Industrial estate,Empty,No,Poor,9,Not Possible,Critical
+1019,LOC067,K003,Dartford East,Industrial estate,Thick,Yes,Good,4,Difficult,Critical
+1020,LOC112,K004,Dover West,Construction area,Thick,Yes,Poor,13,Not Possible,Critical
+1021,LOC167,K007,Sevenoaks East,Lay-by,Thick,Yes,Good,15,Difficult,Low
+1022,LOC021,K010,Tonbridge & Malling West,Residential street,Low,Yes,No light,4,Easy,Critical
+1023,LOC102,K011,Tunbridge Wells South,Industrial estate,Empty,No,No light,6,Difficult,Low
+1024,LOC064,K012,Folkestone & Hythe East,Commercial area,Empty,Yes,Good,3,Not Possible,High
+1025,LOC146,K012,Folkestone & Hythe North,Construction area,Empty,No,No light,16,Difficult,High
+1026,LOC172,K004,Dover West,Lay-by,Thick,Yes,Good,3,Easy,Critical
+1027,LOC194,K005,Gravesham North,Car park,Empty,Yes,No light,18,Not Possible,Low
+1028,LOC013,K012,Folkestone & Hythe North,Woodland,Low,Yes,Poor,1,Difficult,High
+1029,LOC130,K007,Sevenoaks South,Rural Road,Medium,No,Poor,5,Not Possible,High
+1030,LOC056,K008,Swale East,Rural Road,Empty,No,Poor,8,Easy,High
+1031,LOC156,K003,Dartford South,Canal/river side,Medium,Yes,Good,19,Not Possible,High
+1032,LOC162,K006,Maidstone West,Rural road,Low,Yes,No light,7,Not Possible,Low
+1033,LOC021,K002,Canterbury South,Rural road,Thick,Yes,Good,2,Not Possible,High
+1034,LOC072,K003,Dartford North,Car park,Thick,Yes,Good,4,Not Possible,High
+1035,LOC098,K012,Folkestone & Hythe South,Construction area,Low,No,No light,20,Easy,High
+1036,LOC187,K006,Maidstone East,Residential street,Low,Yes,No light,6,Not Possible,Critical
+1037,LOC148,K011,Tunbridge Wells West,Construction area,Empty,Yes,Good,18,Not Possible,Critical
+1038,LOC108,K012,Folkestone & Hythe East,Rural road,Medium,Yes,No light,6,Difficult,High
+1039,LOC022,K007,Sevenoaks South,Industrial estate,Medium,No,No light,12,Difficult,High
+1040,LOC131,K009,Thanet South,Canal/river side,Empty,No,No light,1,Easy,Low
+1041,LOC073,K007,Sevenoaks West,Lay-by,Low,No,Poor,20,Not Possible,Critical
+1042,LOC161,K009,Thanet West,Industrial estate,Medium,No,No light,7,Easy,High
+1043,LOC156,K010,Tonbridge & Malling East,Rural Road,Medium,Yes,No light,9,Not Possible,High
+1044,LOC193,K007,Sevenoaks South,Rural Road,Low,No,No light,4,Easy,Low
+1045,LOC200,K003,Dartford South,Lay-by,Thick,No,Good,2,Easy,Low
+1046,LOC189,K005,Gravesham North,Woodland,Empty,Yes,No light,6,Difficult,High
+1047,LOC090,K008,Swale East,Canal/river side,Empty,Yes,Good,1,Not Possible,High
+1048,LOC191,K002,Canterbury South,Lay-by,Medium,No,No light,1,Difficult,Low
+1049,LOC032,K005,Gravesham West,Lay-by,Low,Yes,Poor,3,Not Possible,Low
+1050,LOC029,K011,Tunbridge Wells South,Construction area,Empty,No,No light,4,Not Possible,High
+1051,LOC138,K004,Dover West,Lay-by,Empty,Yes,Good,6,Easy,Low
+1052,LOC073,K001,Ashford East,Car park,Low,Yes,Good,12,Difficult,High
+1053,LOC016,K011,Tunbridge Wells East,Lay-by,Thick,No,No light,7,Not Possible,Low
+1054,LOC105,K002,Canterbury East,Car park,Thick,No,Poor,14,Not Possible,Low
+1055,LOC048,K010,Tonbridge & Malling North,Lay-by,Medium,No,Good,13,Difficult,Critical
+1056,LOC094,K003,Dartford North,Industrial estate,Medium,Yes,Poor,4,Difficult,Low
+1057,LOC008,K005,Gravesham North,Canal/river side,Low,Yes,No light,6,Not Possible,Low
+1058,LOC039,K008,Swale East,Industrial estate,Empty,No,Good,5,Difficult,Critical
+1059,LOC077,K005,Gravesham North,Commercial area,Thick,No,No light,1,Not Possible,High
+1060,LOC104,K007,Sevenoaks South,Woodland,Medium,No,No light,14,Not Possible,Critical
+1061,LOC146,K007,Sevenoaks South,Residential street,Medium,Yes,Poor,18,Difficult,Low
+1062,LOC099,K006,Maidstone East,Car park,Empty,No,Poor,11,Easy,Critical
+1063,LOC020,K001,Ashford East,Construction area,Low,No,No light,10,Not Possible,Low
+1064,LOC060,K002,Canterbury South,Residential street,Medium,Yes,No light,17,Difficult,High
+1065,LOC086,K004,Dover South,Car park,Empty,No,No light,13,Difficult,High
+1066,LOC084,K011,Tunbridge Wells East,Rural Road,Low,No,Good,16,Difficult,High
+1067,LOC111,K005,Gravesham East,Car park,Thick,Yes,Poor,1,Difficult,Critical
+1068,LOC026,K010,Tonbridge & Malling East,Car park,Thick,Yes,No light,3,Not Possible,Low
+1069,LOC146,K007,Sevenoaks East,Construction area,Thick,No,No light,2,Difficult,High
+1070,LOC161,K007,Sevenoaks North,Residential street,Low,Yes,No light,11,Not Possible,Critical
+1071,LOC026,K010,Tonbridge & Malling South,Commercial area,Thick,No,No light,18,Not Possible,Low
+1072,LOC166,K010,Tonbridge & Malling South,Residential street,Low,Yes,Poor,5,Difficult,High
+1073,LOC093,K004,Dover East,Rural road,Low,No,Poor,13,Difficult,Low
+1074,LOC009,K010,Tonbridge & Malling North,Industrial estate,Low,No,No light,20,Easy,Low
+1075,LOC041,K001,Ashford South,Industrial estate,Empty,No,No light,17,Easy,Critical
+1076,LOC068,K005,Gravesham West,Lay-by,Empty,No,No light,13,Easy,High
+1077,LOC023,K006,Maidstone West,Residential street,Empty,Yes,Good,6,Easy,Low
+1078,LOC084,K008,Swale South,Commercial area,Thick,Yes,No light,4,Easy,High
+1079,LOC124,K002,Canterbury West,Residential street,Low,Yes,Good,19,Easy,Critical
+1080,LOC012,K011,Tunbridge Wells West,Canal/river side,Medium,No,No light,17,Difficult,High
+1081,LOC117,K003,Dartford East,Rural Road,Empty,Yes,No light,18,Easy,High
+1082,LOC155,K005,Gravesham North,Canal/river side,Medium,No,No light,14,Not Possible,Critical
+1083,LOC052,K006,Maidstone West,Rural Road,Thick,No,Good,2,Easy,Critical
+1084,LOC085,K005,Gravesham North,Lay-by,Medium,Yes,Good,2,Not Possible,High
+1085,LOC147,K007,Sevenoaks South,Industrial estate,Low,Yes,Poor,8,Not Possible,Critical
+1086,LOC054,K009,Thanet South,Car park,Medium,No,Good,7,Not Possible,High
+1087,LOC093,K011,Tunbridge Wells East,Car park,Thick,Yes,No light,17,Easy,Low
+1088,LOC028,K007,Sevenoaks East,Car park,Medium,No,No light,17,Easy,Low
+1089,LOC147,K009,Thanet East,Rural road,Thick,No,Good,14,Easy,Critical
+1090,LOC033,K006,Maidstone North,Commercial area,Thick,Yes,No light,14,Difficult,High
+1091,LOC026,K001,Ashford North,Rural road,Empty,Yes,Poor,9,Difficult,Critical
+1092,LOC150,K005,Gravesham South,Car park,Medium,Yes,Good,17,Difficult,Low
+1093,LOC168,K007,Sevenoaks East,Residential street,Empty,No,Good,8,Difficult,Low
+1094,LOC014,K009,Thanet North,Canal/river side,Low,Yes,No light,2,Difficult,High
+1095,LOC155,K012,Folkestone & Hythe East,Woodland,Low,No,Poor,7,Not Possible,High
+1096,LOC157,K002,Canterbury West,Industrial estate,Medium,No,No light,5,Easy,Critical
+1097,LOC020,K009,Thanet South,Residential street,Empty,Yes,Poor,15,Difficult,Low
+1098,LOC139,K012,Folkestone & Hythe South,Rural Road,Thick,No,Poor,17,Easy,Critical
+1099,LOC149,K002,Canterbury North,Car park,Empty,Yes,No light,5,Difficult,Low
+1100,LOC056,K008,Swale North,Canal/river side,Medium,No,Poor,14,Easy,High
+1101,LOC072,K012,Folkestone & Hythe South,Industrial estate,Medium,Yes,Poor,4,Difficult,Low
+1102,LOC092,K011,Tunbridge Wells South,Industrial estate,Empty,No,Poor,8,Difficult,Low
+1103,LOC088,K003,Dartford North,Rural Road,Low,No,No light,6,Difficult,High
+1104,LOC134,K005,Gravesham West,Residential street,Empty,No,Good,10,Not Possible,Low
+1105,LOC165,K003,Dartford North,Commercial area,Thick,No,No light,9,Not Possible,Critical
+1106,LOC073,K010,Tonbridge & Malling West,Car park,Low,Yes,Poor,15,Easy,Low
+1107,LOC033,K002,Canterbury West,Commercial area,Thick,Yes,Good,7,Difficult,Critical
+1108,LOC107,K009,Thanet North,Canal/river side,Empty,No,Good,17,Easy,High
+1109,LOC162,K006,Maidstone South,Woodland,Thick,Yes,Good,4,Not Possible,Critical
+1110,LOC138,K001,Ashford North,Lay-by,Low,No,Poor,13,Easy,High
+1111,LOC141,K008,Swale North,Industrial estate,Medium,Yes,Poor,14,Easy,Low
+1112,LOC108,K011,Tunbridge Wells South,Rural Road,Medium,Yes,Good,6,Difficult,Critical
+1113,LOC070,K009,Thanet South,Rural road,Thick,No,Good,7,Difficult,High
+1114,LOC112,K003,Dartford West,Woodland,Low,No,No light,10,Easy,Low
+1115,LOC097,K008,Swale West,Construction area,Empty,No,No light,7,Not Possible,Low
+1116,LOC178,K007,Sevenoaks North,Car park,Thick,Yes,Poor,16,Easy,High
+1117,LOC001,K012,Folkestone & Hythe West,Woodland,Thick,Yes,Good,10,Difficult,Low
+1118,LOC189,K005,Gravesham South,Residential street,Thick,Yes,Poor,15,Easy,Low
+1119,LOC093,K002,Canterbury East,Woodland,Empty,No,No light,19,Not Possible,Critical
+1120,LOC076,K004,Dover South,Rural road,Low,Yes,Poor,20,Easy,Critical
+1121,LOC082,K003,Dartford East,Rural Road,Low,No,Poor,17,Not Possible,Low
+1122,LOC090,K004,Dover South,Canal/river side,Thick,Yes,Good,5,Not Possible,High
+1123,LOC035,K009,Thanet East,Canal/river side,Thick,No,Good,1,Easy,High
+1124,LOC182,K006,Maidstone West,Canal/river side,Thick,No,No light,7,Easy,Low
+1125,LOC070,K006,Maidstone East,Industrial estate,Medium,No,Poor,10,Difficult,Low
+1126,LOC104,K008,Swale East,Lay-by,Low,Yes,Good,11,Difficult,Low
+1127,LOC158,K010,Tonbridge & Malling South,Residential street,Thick,Yes,Poor,7,Not Possible,Low
+1128,LOC177,K001,Ashford South,Lay-by,Low,Yes,No light,19,Easy,Critical
+1129,LOC071,K006,Maidstone North,Construction area,Medium,Yes,Good,14,Not Possible,High
+1130,LOC132,K001,Ashford South,Industrial estate,Thick,No,Poor,6,Not Possible,High
+1131,LOC153,K009,Thanet West,Car park,Low,No,No light,3,Difficult,Low
+1132,LOC131,K001,Ashford West,Commercial area,Thick,No,Poor,8,Easy,Low
+1133,LOC162,K004,Dover North,Lay-by,Medium,Yes,No light,3,Difficult,Critical
+1134,LOC074,K004,Dover South,Car park,Low,Yes,Poor,1,Not Possible,High
+1135,LOC169,K006,Maidstone South,Rural Road,Thick,Yes,Good,8,Not Possible,High
+1136,LOC012,K004,Dover North,Rural Road,Low,Yes,No light,18,Easy,Low
+1137,LOC105,K004,Dover South,Rural road,Low,No,Poor,13,Easy,High
+1138,LOC123,K008,Swale East,Canal/river side,Thick,No,Poor,19,Difficult,High
+1139,LOC146,K001,Ashford East,Lay-by,Empty,Yes,No light,2,Difficult,High
+1140,LOC006,K012,Folkestone & Hythe North,Construction area,Medium,No,Poor,7,Difficult,Critical
+1141,LOC030,K001,Ashford North,Lay-by,Low,Yes,No light,4,Difficult,Critical
+1142,LOC043,K006,Maidstone West,Lay-by,Low,No,Poor,20,Easy,Critical
+1143,LOC164,K001,Ashford South,Residential street,Low,No,Good,19,Not Possible,Critical
+1144,LOC066,K011,Tunbridge Wells North,Residential street,Low,No,No light,17,Not Possible,High
+1145,LOC086,K009,Thanet East,Commercial area,Thick,Yes,No light,18,Difficult,Critical
+1146,LOC115,K010,Tonbridge & Malling East,Industrial estate,Medium,Yes,Good,13,Not Possible,High
+1147,LOC154,K010,Tonbridge & Malling East,Construction area,Medium,No,Good,6,Not Possible,High
+1148,LOC172,K012,Folkestone & Hythe West,Canal/river side,Thick,Yes,No light,1,Easy,Low
+1149,LOC103,K002,Canterbury South,Construction area,Medium,Yes,Poor,10,Easy,Low
+1150,LOC031,K004,Dover South,Woodland,Low,No,Poor,7,Easy,Critical
+1151,LOC054,K001,Ashford North,Rural Road,Empty,Yes,No light,11,Not Possible,Low
+1152,LOC087,K005,Gravesham North,Industrial estate,Medium,No,No light,1,Easy,Low
+1153,LOC108,K012,Folkestone & Hythe North,Residential street,Thick,No,No light,13,Easy,High
+1154,LOC188,K010,Tonbridge & Malling North,Residential street,Empty,Yes,No light,1,Difficult,High
+1155,LOC050,K011,Tunbridge Wells East,Canal/river side,Low,No,No light,3,Not Possible,Low
+1156,LOC156,K007,Sevenoaks East,Car park,Medium,Yes,Good,3,Easy,Critical
+1157,LOC169,K002,Canterbury North,Canal/river side,Empty,Yes,No light,10,Not Possible,Critical
+1158,LOC081,K003,Dartford East,Residential street,Medium,Yes,Poor,10,Easy,Low
+1159,LOC081,K009,Thanet West,Commercial area,Medium,Yes,Poor,2,Easy,High
+1160,LOC121,K012,Folkestone & Hythe South,Commercial area,Medium,Yes,Good,13,Difficult,High
+1161,LOC111,K002,Canterbury South,Rural road,Thick,No,No light,11,Difficult,Critical
+1162,LOC077,K008,Swale West,Car park,Low,Yes,Good,10,Not Possible,High
+1163,LOC043,K012,Folkestone & Hythe East,Canal/river side,Low,No,Good,12,Not Possible,Critical
+1164,LOC109,K011,Tunbridge Wells West,Residential street,Low,Yes,Poor,11,Easy,Low
+1165,LOC083,K004,Dover West,Industrial estate,Low,No,Poor,16,Easy,High
+1166,LOC006,K007,Sevenoaks North,Lay-by,Empty,No,Poor,5,Not Possible,Low
+1167,LOC067,K008,Swale South,Lay-by,Low,Yes,No light,12,Easy,Low
+1168,LOC190,K009,Thanet West,Commercial area,Medium,Yes,No light,7,Difficult,Critical
+1169,LOC107,K012,Folkestone & Hythe East,Construction area,Medium,Yes,No light,15,Not Possible,Critical
+1170,LOC047,K003,Dartford West,Commercial area,Low,Yes,Good,2,Not Possible,Low
+1171,LOC050,K004,Dover West,Construction area,Low,Yes,Poor,17,Difficult,Low
+1172,LOC148,K008,Swale South,Construction area,Empty,Yes,No light,16,Easy,Low
+1173,LOC101,K002,Canterbury East,Canal/river side,Medium,No,No light,2,Difficult,Low
+1174,LOC014,K008,Swale South,Rural road,Thick,Yes,Good,20,Easy,Low
+1175,LOC077,K009,Thanet South,Rural Road,Thick,No,Poor,11,Not Possible,High
+1176,LOC101,K012,Folkestone & Hythe East,Car park,Low,Yes,No light,5,Not Possible,Low
+1177,LOC153,K006,Maidstone East,Commercial area,Medium,No,No light,8,Difficult,Critical
+1178,LOC100,K005,Gravesham East,Woodland,Thick,No,Good,10,Difficult,Low
+1179,LOC062,K010,Tonbridge & Malling West,Industrial estate,Low,No,No light,19,Not Possible,High
+1180,LOC093,K002,Canterbury West,Car park,Empty,No,Poor,4,Difficult,Critical
+1181,LOC195,K003,Dartford West,Residential street,Empty,No,No light,8,Not Possible,High
+1182,LOC143,K007,Sevenoaks North,Woodland,Low,No,Poor,19,Not Possible,Critical
+1183,LOC152,K011,Tunbridge Wells South,Lay-by,Empty,Yes,Poor,3,Easy,Critical
+1184,LOC066,K012,Folkestone & Hythe North,Car park,Medium,Yes,No light,11,Easy,Low
+1185,LOC031,K010,Tonbridge & Malling East,Commercial area,Thick,No,Poor,7,Difficult,Critical
+1186,LOC087,K009,Thanet South,Rural Road,Empty,No,Good,20,Easy,High
+1187,LOC165,K002,Canterbury East,Car park,Medium,No,No light,9,Not Possible,High
+1188,LOC009,K003,Dartford West,Construction area,Low,Yes,No light,15,Easy,High
+1189,LOC098,K010,Tonbridge & Malling South,Residential street,Empty,No,No light,1,Easy,Critical
+1190,LOC154,K011,Tunbridge Wells North,Lay-by,Medium,Yes,Poor,6,Not Possible,Low
+1191,LOC178,K012,Folkestone & Hythe North,Residential street,Empty,No,Poor,1,Difficult,High
+1192,LOC003,K009,Thanet East,Car park,Low,No,No light,16,Not Possible,Critical
+1193,LOC051,K012,Folkestone & Hythe West,Lay-by,Medium,Yes,Good,5,Easy,Low
+1194,LOC066,K004,Dover South,Industrial estate,Thick,No,Good,10,Not Possible,Critical
+1195,LOC171,K001,Ashford West,Canal/river side,Empty,Yes,Poor,8,Difficult,Low
+1196,LOC132,K009,Thanet East,Rural road,Empty,No,Good,1,Not Possible,High
+1197,LOC019,K001,Ashford East,Residential street,Empty,No,Good,17,Not Possible,Critical
+1198,LOC003,K001,Ashford East,Rural road,Empty,Yes,Good,20,Easy,High
+1199,LOC121,K007,Sevenoaks South,Car park,Medium,Yes,Good,7,Difficult,Critical
+1200,LOC137,K010,Tonbridge & Malling North,Car park,Thick,Yes,Good,7,Not Possible,High
+1201,LOC076,K002,Canterbury South,Lay-by,Empty,No,No light,7,Easy,High
+1202,LOC137,K007,Sevenoaks West,Industrial estate,Empty,No,Poor,6,Easy,High
+1203,LOC099,K012,Folkestone & Hythe West,Rural road,Empty,Yes,Poor,3,Difficult,High
+1204,LOC169,K005,Gravesham West,Commercial area,Low,No,Good,1,Not Possible,Critical
+1205,LOC197,K004,Dover West,Lay-by,Thick,No,Poor,15,Difficult,Low
+1206,LOC103,K008,Swale South,Rural Road,Thick,No,Good,9,Easy,Low
+1207,LOC017,K006,Maidstone West,Commercial area,Thick,No,Good,11,Easy,High
+1208,LOC108,K011,Tunbridge Wells South,Car park,Medium,No,Good,11,Not Possible,Low
+1209,LOC038,K005,Gravesham West,Rural road,Medium,No,Good,4,Difficult,Low
+1210,LOC131,K011,Tunbridge Wells West,Rural road,Medium,Yes,Poor,19,Not Possible,Low
+1211,LOC058,K012,Folkestone & Hythe North,Residential street,Empty,Yes,Good,9,Not Possible,Critical
+1212,LOC138,K010,Tonbridge & Malling North,Construction area,Low,No,Good,11,Difficult,Critical
+1213,LOC189,K010,Tonbridge & Malling West,Industrial estate,Low,No,Good,11,Easy,Critical
+1214,LOC191,K007,Sevenoaks South,Rural road,Empty,No,Good,13,Difficult,Low
+1215,LOC084,K011,Tunbridge Wells West,Rural road,Low,No,Poor,10,Not Possible,High
+1216,LOC051,K008,Swale South,Industrial estate,Medium,No,Poor,2,Not Possible,Low
+1217,LOC133,K006,Maidstone East,Car park,Low,No,No light,14,Easy,Critical
+1218,LOC055,K012,Folkestone & Hythe East,Car park,Empty,No,Good,14,Difficult,Critical
+1219,LOC086,K003,Dartford West,Lay-by,Low,Yes,Good,9,Not Possible,Low
+1220,LOC174,K005,Gravesham North,Car park,Thick,Yes,Good,19,Difficult,High
+1221,LOC031,K010,Tonbridge & Malling South,Car park,Thick,Yes,Good,5,Easy,Low
+1222,LOC096,K001,Ashford West,Canal/river side,Thick,No,Poor,4,Difficult,Critical
+1223,LOC130,K012,Folkestone & Hythe East,Car park,Low,Yes,Poor,13,Not Possible,Critical
+1224,LOC034,K007,Sevenoaks West,Woodland,Empty,Yes,No light,6,Difficult,High
+1225,LOC042,K010,Tonbridge & Malling South,Commercial area,Low,Yes,No light,5,Not Possible,Critical
+1226,LOC148,K012,Folkestone & Hythe North,Rural Road,Medium,No,Poor,2,Not Possible,Critical
+1227,LOC091,K002,Canterbury West,Residential street,Medium,Yes,Good,14,Easy,High
+1228,LOC144,K010,Tonbridge & Malling North,Woodland,Thick,Yes,Poor,7,Difficult,Critical
+1229,LOC148,K007,Sevenoaks West,Rural road,Low,Yes,Good,6,Not Possible,High
+1230,LOC135,K001,Ashford East,Lay-by,Thick,No,No light,17,Easy,High
+1231,LOC114,K010,Tonbridge & Malling North,Rural Road,Medium,No,Poor,4,Not Possible,Critical
+1232,LOC143,K012,Folkestone & Hythe East,Residential street,Empty,Yes,Good,17,Difficult,High
+1233,LOC123,K006,Maidstone East,Canal/river side,Thick,No,No light,5,Difficult,Critical
+1234,LOC008,K009,Thanet North,Commercial area,Empty,No,Poor,10,Difficult,Low
+1235,LOC075,K011,Tunbridge Wells East,Lay-by,Thick,Yes,No light,6,Not Possible,Low
+1236,LOC123,K002,Canterbury South,Commercial area,Low,Yes,Good,1,Easy,Critical
+1237,LOC084,K009,Thanet West,Lay-by,Low,Yes,No light,9,Not Possible,Low
+1238,LOC029,K004,Dover North,Woodland,Low,No,Poor,1,Easy,Low
+1239,LOC017,K008,Swale East,Rural Road,Thick,No,No light,14,Easy,High
+1240,LOC029,K004,Dover North,Canal/river side,Low,No,No light,7,Difficult,Low
+1241,LOC061,K002,Canterbury North,Rural Road,Empty,Yes,No light,19,Difficult,Low
+1242,LOC149,K012,Folkestone & Hythe North,Commercial area,Empty,No,Poor,16,Easy,High
+1243,LOC100,K006,Maidstone North,Woodland,Low,No,Good,4,Easy,Low
+1244,LOC043,K008,Swale North,Construction area,Low,No,Poor,10,Easy,Critical
+1245,LOC089,K011,Tunbridge Wells North,Construction area,Medium,No,Poor,5,Difficult,High
+1246,LOC162,K012,Folkestone & Hythe West,Car park,Empty,No,Poor,10,Difficult,Low
+1247,LOC011,K005,Gravesham West,Residential street,Empty,No,No light,16,Not Possible,High
+1248,LOC044,K008,Swale West,Commercial area,Thick,Yes,No light,6,Not Possible,Critical
+1249,LOC007,K002,Canterbury West,Commercial area,Thick,Yes,Poor,1,Easy,Low
+1250,LOC157,K008,Swale South,Rural road,Empty,No,Poor,5,Not Possible,Critical
+1251,LOC024,K001,Ashford East,Rural Road,Thick,Yes,Poor,8,Difficult,Critical
+1252,LOC042,K006,Maidstone South,Woodland,Low,Yes,Good,7,Difficult,Low
+1253,LOC128,K009,Thanet West,Construction area,Medium,Yes,Poor,13,Not Possible,Critical
+1254,LOC071,K004,Dover North,Woodland,Low,No,Good,14,Not Possible,Low
+1255,LOC081,K004,Dover East,Canal/river side,Empty,No,No light,9,Easy,High
+1256,LOC064,K005,Gravesham South,Lay-by,Low,No,No light,20,Easy,Low
+1257,LOC009,K006,Maidstone West,Residential street,Thick,No,No light,2,Easy,High
+1258,LOC162,K001,Ashford East,Rural Road,Thick,No,Poor,20,Easy,High
+1259,LOC175,K012,Folkestone & Hythe South,Rural Road,Low,Yes,Poor,2,Not Possible,Critical
+1260,LOC198,K002,Canterbury North,Construction area,Empty,Yes,No light,11,Difficult,Critical
+1261,LOC003,K012,Folkestone & Hythe East,Rural road,Thick,Yes,Good,12,Easy,Low
+1262,LOC016,K005,Gravesham North,Construction area,Low,Yes,No light,8,Difficult,High
+1263,LOC006,K001,Ashford North,Lay-by,Medium,No,Good,10,Easy,Low
+1264,LOC121,K011,Tunbridge Wells West,Rural Road,Thick,Yes,No light,18,Not Possible,Low
+1265,LOC163,K001,Ashford South,Rural road,Empty,No,Poor,1,Difficult,Low
+1266,LOC030,K012,Folkestone & Hythe East,Construction area,Medium,No,No light,20,Easy,Critical
+1267,LOC016,K003,Dartford South,Woodland,Empty,No,No light,18,Difficult,Low
+1268,LOC043,K011,Tunbridge Wells North,Construction area,Medium,No,Good,19,Easy,Low
+1269,LOC038,K001,Ashford East,Woodland,Empty,Yes,No light,16,Not Possible,High
+1270,LOC031,K009,Thanet South,Car park,Low,No,Poor,14,Not Possible,High
+1271,LOC174,K010,Tonbridge & Malling North,Car park,Thick,Yes,No light,15,Not Possible,High
+1272,LOC103,K006,Maidstone West,Commercial area,Thick,No,No light,7,Not Possible,High
+1273,LOC030,K011,Tunbridge Wells West,Residential street,Thick,No,Poor,1,Not Possible,High
+1274,LOC065,K003,Dartford East,Lay-by,Low,No,No light,8,Difficult,Critical
+1275,LOC053,K010,Tonbridge & Malling North,Rural Road,Low,No,Good,14,Not Possible,Low
+1276,LOC024,K003,Dartford North,Residential street,Medium,No,No light,14,Easy,High
+1277,LOC095,K007,Sevenoaks North,Rural road,Low,Yes,No light,12,Not Possible,Critical
+1278,LOC051,K010,Tonbridge & Malling West,Construction area,Low,Yes,Good,9,Easy,High
+1279,LOC075,K002,Canterbury West,Industrial estate,Empty,No,Poor,15,Difficult,Critical
+1280,LOC149,K008,Swale East,Industrial estate,Empty,No,No light,5,Not Possible,Critical
+1281,LOC194,K005,Gravesham South,Canal/river side,Empty,No,Poor,18,Easy,High
+1282,LOC170,K010,Tonbridge & Malling East,Residential street,Medium,No,No light,19,Easy,Low
+1283,LOC182,K002,Canterbury South,Commercial area,Thick,No,Good,3,Difficult,Low
+1284,LOC142,K009,Thanet North,Rural road,Medium,Yes,No light,4,Difficult,High
+1285,LOC180,K011,Tunbridge Wells West,Woodland,Thick,No,Poor,11,Not Possible,High
+1286,LOC164,K010,Tonbridge & Malling West,Lay-by,Medium,Yes,Poor,9,Easy,Low
+1287,LOC027,K008,Swale North,Rural road,Thick,Yes,No light,8,Not Possible,Low
+1288,LOC067,K010,Tonbridge & Malling South,Residential street,Empty,Yes,Poor,4,Difficult,Critical
+1289,LOC084,K001,Ashford West,Residential street,Empty,No,Poor,12,Difficult,Low
+1290,LOC070,K004,Dover South,Canal/river side,Low,No,No light,3,Not Possible,High
+1291,LOC046,K008,Swale North,Construction area,Low,Yes,Poor,15,Easy,Critical
+1292,LOC182,K009,Thanet South,Car park,Medium,Yes,Good,14,Difficult,Low
+1293,LOC101,K008,Swale East,Construction area,Thick,Yes,Poor,20,Easy,Critical
+1294,LOC035,K008,Swale West,Commercial area,Medium,Yes,No light,10,Difficult,Low
+1295,LOC134,K009,Thanet South,Residential street,Thick,Yes,No light,10,Easy,High
+1296,LOC165,K001,Ashford East,Commercial area,Empty,No,No light,7,Easy,Low
+1297,LOC132,K008,Swale South,Canal/river side,Empty,No,Poor,17,Not Possible,High
+1298,LOC076,K012,Folkestone & Hythe North,Residential street,Thick,Yes,No light,20,Easy,High
+1299,LOC078,K011,Tunbridge Wells North,Residential street,Empty,No,No light,11,Easy,High
+1300,LOC041,K003,Dartford North,Lay-by,Medium,No,No light,15,Easy,High
+1301,LOC166,K004,Dover North,Woodland,Empty,Yes,No light,1,Difficult,Low
+1302,LOC001,K010,Tonbridge & Malling North,Residential street,Thick,No,Good,10,Difficult,Critical
+1303,LOC091,K008,Swale East,Rural road,Low,No,Good,5,Difficult,Critical
+1304,LOC021,K004,Dover North,Rural road,Thick,No,Poor,2,Difficult,Critical
+1305,LOC051,K009,Thanet South,Construction area,Thick,No,No light,9,Not Possible,Critical
+1306,LOC028,K011,Tunbridge Wells East,Lay-by,Thick,Yes,No light,3,Not Possible,High
+1307,LOC117,K002,Canterbury East,Rural Road,Low,Yes,Poor,4,Easy,Low
+1308,LOC119,K003,Dartford East,Canal/river side,Low,Yes,Good,8,Not Possible,Critical
+1309,LOC006,K004,Dover West,Commercial area,Empty,Yes,No light,17,Not Possible,High
+1310,LOC135,K009,Thanet East,Rural road,Empty,No,Poor,19,Difficult,High
+1311,LOC067,K009,Thanet South,Car park,Low,No,Good,4,Difficult,Low
+1312,LOC049,K001,Ashford South,Commercial area,Empty,No,Poor,8,Easy,Critical
+1313,LOC033,K001,Ashford South,Woodland,Thick,Yes,Poor,12,Not Possible,Low
+1314,LOC103,K008,Swale South,Construction area,Empty,Yes,Good,15,Not Possible,High
+1315,LOC152,K001,Ashford East,Construction area,Medium,Yes,Poor,10,Difficult,Critical
+1316,LOC019,K009,Thanet South,Construction area,Thick,No,Good,18,Easy,Low
+1317,LOC200,K003,Dartford East,Rural road,Thick,Yes,Good,17,Easy,Critical
+1318,LOC157,K011,Tunbridge Wells East,Commercial area,Medium,Yes,Poor,4,Difficult,Critical
+1319,LOC132,K003,Dartford North,Canal/river side,Medium,No,Poor,19,Easy,Low
+1320,LOC007,K007,Sevenoaks South,Residential street,Medium,No,No light,7,Difficult,High
+1321,LOC055,K008,Swale West,Car park,Low,No,Poor,17,Easy,Critical
+1322,LOC186,K010,Tonbridge & Malling East,Canal/river side,Empty,Yes,Poor,5,Difficult,High
+1323,LOC090,K007,Sevenoaks North,Construction area,Medium,Yes,No light,2,Not Possible,Low
+1324,LOC082,K008,Swale South,Industrial estate,Low,Yes,Poor,9,Easy,High
+1325,LOC008,K003,Dartford West,Construction area,Medium,No,Good,13,Easy,Critical
+1326,LOC123,K012,Folkestone & Hythe North,Rural Road,Thick,No,Poor,3,Easy,High
+1327,LOC112,K004,Dover South,Woodland,Empty,Yes,No light,19,Difficult,Critical
+1328,LOC131,K006,Maidstone South,Woodland,Empty,No,Poor,13,Easy,Critical
+1329,LOC124,K011,Tunbridge Wells West,Car park,Thick,Yes,Poor,12,Easy,Critical
+1330,LOC133,K011,Tunbridge Wells South,Construction area,Thick,No,No light,9,Difficult,Low
+1331,LOC167,K009,Thanet South,Rural Road,Medium,Yes,Good,17,Easy,Low
+1332,LOC136,K005,Gravesham West,Rural Road,Medium,No,Good,16,Difficult,Critical
+1333,LOC104,K009,Thanet South,Woodland,Thick,No,No light,3,Easy,Low
+1334,LOC066,K010,Tonbridge & Malling South,Rural road,Thick,Yes,No light,7,Easy,Low
+1335,LOC179,K004,Dover North,Industrial estate,Low,Yes,Poor,6,Easy,Low
+1336,LOC019,K009,Thanet South,Canal/river side,Medium,No,Good,4,Not Possible,Low
+1337,LOC075,K010,Tonbridge & Malling East,Woodland,Empty,No,No light,12,Difficult,High
+1338,LOC193,K011,Tunbridge Wells East,Woodland,Low,No,Poor,19,Not Possible,High
+1339,LOC166,K002,Canterbury East,Commercial area,Thick,No,No light,3,Difficult,High
+1340,LOC113,K011,Tunbridge Wells West,Commercial area,Thick,No,Good,2,Difficult,Low
+1341,LOC191,K003,Dartford West,Rural Road,Medium,No,Good,11,Difficult,Critical
+1342,LOC169,K004,Dover South,Residential street,Low,Yes,Poor,8,Difficult,High
+1343,LOC194,K012,Folkestone & Hythe East,Car park,Thick,No,Poor,6,Easy,High
+1344,LOC062,K003,Dartford West,Commercial area,Empty,Yes,No light,11,Easy,High
+1345,LOC067,K011,Tunbridge Wells East,Industrial estate,Low,Yes,Poor,9,Not Possible,Low
+1346,LOC070,K009,Thanet East,Woodland,Thick,No,Good,15,Easy,Critical
+1347,LOC064,K010,Tonbridge & Malling East,Industrial estate,Empty,Yes,No light,9,Not Possible,Low
+1348,LOC195,K001,Ashford East,Commercial area,Medium,Yes,Poor,20,Easy,Low
+1349,LOC109,K012,Folkestone & Hythe South,Construction area,Empty,Yes,No light,3,Not Possible,High
+1350,LOC149,K003,Dartford West,Rural road,Medium,Yes,Good,18,Easy,High
+1351,LOC179,K008,Swale North,Commercial area,Thick,Yes,Poor,20,Difficult,Low
+1352,LOC161,K002,Canterbury North,Rural Road,Medium,No,Poor,7,Difficult,Low
+1353,LOC037,K010,Tonbridge & Malling East,Construction area,Empty,Yes,Poor,11,Not Possible,High
+1354,LOC059,K006,Maidstone South,Canal/river side,Medium,Yes,Good,2,Not Possible,High
+1355,LOC199,K008,Swale West,Canal/river side,Low,Yes,Good,19,Easy,Critical
+1356,LOC118,K011,Tunbridge Wells South,Industrial estate,Low,Yes,Good,11,Difficult,Critical
+1357,LOC012,K011,Tunbridge Wells South,Residential street,Medium,Yes,No light,7,Not Possible,Low
+1358,LOC187,K010,Tonbridge & Malling East,Residential street,Medium,Yes,Good,18,Easy,Low
+1359,LOC048,K007,Sevenoaks South,Construction area,Medium,No,No light,4,Difficult,Critical
+1360,LOC112,K009,Thanet East,Commercial area,Thick,No,Poor,14,Difficult,Critical
+1361,LOC126,K012,Folkestone & Hythe West,Lay-by,Medium,Yes,Poor,9,Not Possible,Low
+1362,LOC027,K006,Maidstone East,Construction area,Low,No,Good,20,Not Possible,Low
+1363,LOC079,K006,Maidstone East,Rural Road,Thick,No,Poor,20,Easy,Low
+1364,LOC137,K007,Sevenoaks North,Industrial estate,Low,No,Poor,13,Easy,Low
+1365,LOC037,K008,Swale East,Rural Road,Medium,No,Poor,11,Easy,Critical
+1366,LOC156,K004,Dover East,Rural road,Low,No,Poor,17,Difficult,Critical
+1367,LOC170,K004,Dover North,Rural Road,Empty,Yes,Poor,8,Easy,High
+1368,LOC189,K010,Tonbridge & Malling East,Residential street,Empty,No,Good,19,Easy,Critical
+1369,LOC062,K001,Ashford North,Canal/river side,Empty,Yes,Good,20,Difficult,High
+1370,LOC120,K005,Gravesham North,Construction area,Thick,Yes,No light,15,Difficult,High
+1371,LOC017,K006,Maidstone East,Rural Road,Thick,No,Poor,17,Not Possible,Critical
+1372,LOC082,K001,Ashford East,Woodland,Thick,Yes,Good,19,Not Possible,Low
+1373,LOC025,K003,Dartford North,Commercial area,Medium,Yes,No light,18,Difficult,Low
+1374,LOC161,K006,Maidstone West,Canal/river side,Thick,Yes,No light,15,Difficult,Critical
+1375,LOC138,K003,Dartford South,Rural road,Empty,Yes,Good,17,Difficult,Low
+1376,LOC186,K008,Swale West,Construction area,Low,Yes,Poor,16,Difficult,High
+1377,LOC165,K012,Folkestone & Hythe East,Car park,Empty,Yes,No light,15,Difficult,High
+1378,LOC143,K004,Dover East,Industrial estate,Empty,Yes,Good,19,Difficult,Low
+1379,LOC067,K006,Maidstone East,Industrial estate,Medium,No,Good,4,Easy,High
+1380,LOC084,K002,Canterbury East,Rural Road,Medium,No,Good,15,Difficult,High
+1381,LOC177,K004,Dover West,Car park,Low,No,Good,13,Not Possible,Low
+1382,LOC176,K006,Maidstone South,Rural Road,Thick,No,No light,3,Not Possible,Critical
+1383,LOC106,K007,Sevenoaks West,Woodland,Thick,Yes,Poor,6,Easy,Low
+1384,LOC034,K004,Dover South,Lay-by,Thick,Yes,Poor,11,Not Possible,Critical
+1385,LOC107,K009,Thanet West,Residential street,Thick,Yes,Good,20,Difficult,High
+1386,LOC156,K002,Canterbury East,Residential street,Medium,No,No light,4,Not Possible,Low
+1387,LOC035,K001,Ashford South,Commercial area,Empty,Yes,No light,5,Not Possible,High
+1388,LOC157,K004,Dover South,Woodland,Empty,Yes,Poor,1,Not Possible,Low
+1389,LOC066,K002,Canterbury South,Canal/river side,Thick,No,Poor,6,Easy,Critical
+1390,LOC082,K009,Thanet South,Industrial estate,Low,No,No light,1,Easy,High
+1391,LOC068,K012,Folkestone & Hythe South,Woodland,Low,No,No light,14,Difficult,Low
+1392,LOC121,K009,Thanet South,Commercial area,Thick,Yes,Good,4,Difficult,High
+1393,LOC111,K006,Maidstone East,Residential street,Empty,No,Good,9,Easy,Low
+1394,LOC151,K009,Thanet South,Rural road,Low,No,No light,17,Difficult,High
+1395,LOC019,K002,Canterbury East,Industrial estate,Thick,Yes,No light,15,Easy,High
+1396,LOC015,K008,Swale West,Canal/river side,Medium,Yes,Poor,4,Difficult,High
+1397,LOC104,K012,Folkestone & Hythe South,Rural road,Thick,Yes,Good,10,Easy,High
+1398,LOC054,K002,Canterbury South,Construction area,Low,No,Good,4,Easy,Low
+1399,LOC125,K010,Tonbridge & Malling West,Canal/river side,Medium,No,Poor,19,Easy,High
+1400,LOC177,K011,Tunbridge Wells South,Rural road,Low,No,Good,11,Not Possible,High
+1401,LOC179,K002,Canterbury East,Industrial estate,Medium,No,No light,5,Easy,High
+1402,LOC127,K006,Maidstone West,Commercial area,Thick,Yes,Poor,15,Difficult,Low
+1403,LOC102,K011,Tunbridge Wells West,Construction area,Medium,No,Poor,5,Difficult,Critical
+1404,LOC049,K008,Swale North,Rural Road,Empty,Yes,Good,15,Difficult,Low
+1405,LOC129,K010,Tonbridge & Malling West,Commercial area,Thick,Yes,No light,20,Difficult,Low
+1406,LOC011,K012,Folkestone & Hythe West,Lay-by,Low,No,Poor,6,Not Possible,Low
+1407,LOC076,K003,Dartford North,Lay-by,Medium,Yes,Poor,8,Not Possible,High
+1408,LOC184,K004,Dover South,Construction area,Medium,No,No light,8,Easy,Low
+1409,LOC175,K006,Maidstone West,Rural Road,Medium,No,Good,6,Not Possible,High
+1410,LOC082,K011,Tunbridge Wells West,Industrial estate,Thick,No,Good,18,Difficult,Critical
+1411,LOC061,K007,Sevenoaks South,Residential street,Empty,No,Good,17,Easy,High
+1412,LOC155,K001,Ashford South,Woodland,Medium,Yes,Poor,5,Not Possible,High
+1413,LOC126,K006,Maidstone East,Woodland,Low,No,Poor,3,Easy,Critical
+1414,LOC170,K009,Thanet East,Commercial area,Medium,No,Poor,6,Difficult,Low
+1415,LOC057,K001,Ashford West,Rural road,Thick,No,Good,9,Difficult,Low
+1416,LOC086,K004,Dover West,Industrial estate,Empty,Yes,Good,14,Difficult,Low
+1417,LOC033,K009,Thanet South,Rural Road,Medium,Yes,Good,8,Difficult,Critical
+1418,LOC164,K004,Dover West,Lay-by,Empty,No,No light,9,Not Possible,Critical
+1419,LOC195,K005,Gravesham East,Commercial area,Thick,No,Poor,3,Easy,Low
+1420,LOC087,K009,Thanet East,Residential street,Empty,Yes,No light,8,Not Possible,Critical
+1421,LOC189,K005,Gravesham West,Canal/river side,Medium,No,Good,2,Difficult,Low
+1422,LOC170,K004,Dover North,Lay-by,Medium,No,Poor,17,Not Possible,Low
+1423,LOC141,K004,Dover West,Residential street,Thick,No,Poor,6,Easy,High
+1424,LOC083,K010,Tonbridge & Malling North,Rural road,Low,No,No light,13,Easy,High
+1425,LOC141,K010,Tonbridge & Malling North,Woodland,Thick,Yes,Poor,6,Not Possible,Critical
+1426,LOC035,K007,Sevenoaks South,Lay-by,Medium,Yes,No light,11,Difficult,Low
+1427,LOC188,K008,Swale West,Construction area,Thick,Yes,Good,7,Easy,Low
+1428,LOC167,K010,Tonbridge & Malling South,Rural road,Medium,No,Good,14,Not Possible,High
+1429,LOC143,K009,Thanet East,Commercial area,Medium,Yes,No light,12,Not Possible,Critical
+1430,LOC182,K003,Dartford West,Canal/river side,Thick,Yes,Good,18,Not Possible,Critical
+1431,LOC044,K009,Thanet North,Lay-by,Low,No,Poor,18,Not Possible,Critical
+1432,LOC127,K007,Sevenoaks North,Car park,Medium,Yes,No light,9,Easy,High
+1433,LOC048,K002,Canterbury West,Rural Road,Thick,Yes,Good,7,Easy,High
+1434,LOC174,K006,Maidstone East,Industrial estate,Medium,No,Poor,7,Easy,Critical
+1435,LOC076,K003,Dartford East,Lay-by,Medium,Yes,Good,5,Not Possible,Critical
+1436,LOC119,K006,Maidstone West,Residential street,Low,No,No light,19,Difficult,High
+1437,LOC047,K003,Dartford North,Construction area,Thick,No,Good,10,Easy,Low
+1438,LOC011,K007,Sevenoaks South,Canal/river side,Low,No,Good,16,Not Possible,Critical
+1439,LOC091,K003,Dartford West,Commercial area,Thick,Yes,Poor,3,Easy,Critical
+1440,LOC019,K012,Folkestone & Hythe North,Commercial area,Low,No,Good,5,Not Possible,Low
+1441,LOC156,K008,Swale South,Canal/river side,Medium,Yes,Poor,19,Not Possible,Low
+1442,LOC003,K009,Thanet East,Car park,Medium,Yes,No light,4,Easy,Critical
+1443,LOC195,K002,Canterbury North,Commercial area,Empty,No,Poor,2,Easy,High
+1444,LOC076,K012,Folkestone & Hythe East,Lay-by,Empty,No,Poor,20,Not Possible,Low
+1445,LOC087,K007,Sevenoaks North,Commercial area,Thick,No,No light,17,Not Possible,Low
+1446,LOC170,K009,Thanet East,Industrial estate,Medium,Yes,No light,8,Easy,Low
+1447,LOC001,K011,Tunbridge Wells East,Construction area,Low,No,Poor,10,Difficult,High
+1448,LOC133,K003,Dartford North,Rural Road,Thick,Yes,Good,19,Difficult,High
+1449,LOC186,K004,Dover North,Car park,Low,Yes,Good,18,Not Possible,Critical
+1450,LOC036,K008,Swale North,Lay-by,Thick,Yes,Good,19,Not Possible,Low
+1451,LOC029,K004,Dover West,Rural Road,Empty,Yes,Good,12,Easy,Low
+1452,LOC022,K001,Ashford West,Woodland,Thick,Yes,No light,2,Not Possible,Low
+1453,LOC044,K007,Sevenoaks East,Canal/river side,Empty,No,Good,4,Not Possible,High
+1454,LOC009,K003,Dartford West,Commercial area,Medium,Yes,Poor,1,Easy,Low
+1455,LOC056,K007,Sevenoaks East,Construction area,Medium,No,No light,5,Easy,Critical
+1456,LOC132,K007,Sevenoaks West,Construction area,Thick,No,Poor,4,Not Possible,High
+1457,LOC009,K007,Sevenoaks South,Residential street,Thick,No,No light,2,Difficult,High
+1458,LOC126,K005,Gravesham East,Residential street,Empty,Yes,Poor,20,Difficult,Low
+1459,LOC042,K007,Sevenoaks West,Construction area,Empty,Yes,Poor,18,Difficult,Critical
+1460,LOC095,K004,Dover South,Lay-by,Empty,Yes,No light,5,Not Possible,High
+1461,LOC049,K011,Tunbridge Wells East,Canal/river side,Empty,Yes,No light,20,Difficult,Critical
+1462,LOC039,K007,Sevenoaks West,Car park,Thick,No,Good,2,Difficult,Low
+1463,LOC082,K006,Maidstone East,Woodland,Empty,Yes,Good,9,Difficult,Low
+1464,LOC005,K012,Folkestone & Hythe West,Canal/river side,Empty,No,Poor,12,Easy,Low
+1465,LOC048,K001,Ashford East,Construction area,Low,Yes,Good,20,Difficult,Critical
+1466,LOC092,K005,Gravesham West,Lay-by,Thick,No,Good,16,Not Possible,Critical
+1467,LOC045,K002,Canterbury East,Canal/river side,Empty,No,Poor,16,Not Possible,Critical
+1468,LOC083,K003,Dartford North,Rural Road,Low,No,Good,8,Not Possible,Low
+1469,LOC006,K007,Sevenoaks West,Industrial estate,Medium,No,Good,6,Easy,Low
+1470,LOC063,K009,Thanet West,Canal/river side,Thick,Yes,No light,5,Not Possible,High
+1471,LOC101,K011,Tunbridge Wells South,Lay-by,Low,Yes,Good,3,Not Possible,Low
+1472,LOC042,K012,Folkestone & Hythe East,Industrial estate,Low,No,Poor,5,Difficult,Low
+1473,LOC125,K004,Dover North,Industrial estate,Thick,Yes,No light,5,Easy,High
+1474,LOC086,K004,Dover North,Construction area,Thick,Yes,Poor,1,Difficult,High
+1475,LOC193,K006,Maidstone North,Woodland,Empty,Yes,Poor,15,Not Possible,Low
+1476,LOC119,K006,Maidstone West,Construction area,Medium,No,Good,18,Not Possible,Low
+1477,LOC037,K011,Tunbridge Wells South,Construction area,Thick,Yes,Poor,19,Easy,Critical
+1478,LOC095,K004,Dover South,Rural road,Low,No,Good,10,Easy,Critical
+1479,LOC147,K007,Sevenoaks South,Car park,Empty,Yes,Good,9,Easy,Low
+1480,LOC175,K009,Thanet South,Lay-by,Low,No,Poor,11,Easy,High
+1481,LOC010,K012,Folkestone & Hythe South,Commercial area,Medium,Yes,Good,13,Difficult,High
+1482,LOC114,K008,Swale North,Lay-by,Thick,Yes,No light,14,Easy,High
+1483,LOC197,K009,Thanet South,Residential street,Low,No,Poor,11,Easy,High
+1484,LOC122,K001,Ashford West,Car park,Thick,No,Good,13,Not Possible,High
+1485,LOC083,K003,Dartford South,Construction area,Empty,Yes,No light,14,Easy,Low
+1486,LOC124,K003,Dartford East,Rural road,Low,No,Good,13,Not Possible,High
+1487,LOC176,K010,Tonbridge & Malling South,Industrial estate,Low,Yes,Good,1,Easy,High
+1488,LOC091,K002,Canterbury East,Canal/river side,Low,No,Poor,19,Easy,Critical
+1489,LOC122,K010,Tonbridge & Malling East,Rural Road,Empty,No,Good,5,Not Possible,High
