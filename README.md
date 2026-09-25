@@ -1,4 +1,5 @@
-# Kent Fly-Tipping Intelligence & Enforcement Analytics
+# Fly-Tipping Intelligence & Enforcement Analytics
+<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/9dba07b1-793c-4880-b2f3-62f05475479b" />
 
 ## Introduction
 
@@ -148,33 +149,40 @@ This structure allows incident, geographic, waste, enforcement and intelligence 
 
 The dashboard was structured around five intelligence questions.
 
-### Page 1 — What Is Happening?
+### Page 1 — Introduction
 
 Introduction - Imaginary project profile image showing how BI and Data Analytic could be used to solve Fly-tipping issues 
+<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/9dba07b1-793c-4880-b2f3-62f05475479b" />
 
 ### Page 2 — What Is Happening?
 
 Executive Intelligence overview
+<img width="977" height="550" alt="Image" src="https://github.com/user-attachments/assets/084e9102-b93c-4e04-9525-6e6cc6dd29dd" />
 
 ### Page 3 — Where Is It Happening?
 
 Geographic intelligence 
+<img width="982" height="547" alt="Image" src="https://github.com/user-attachments/assets/60b9a84b-2bbd-41ad-8f72-19b2804dcf75" />
 
 ### Page 4 — When & What Patterns Exist?
 
 Trend and pattern Intelligence 
+<img width="983" height="549" alt="Image" src="https://github.com/user-attachments/assets/6cf4bda0-592e-4d5d-8ad2-43765780820c" />
 
 ### Page 5 — What Enforcement Intelligence Is Available?
 
 Investigation & Enforcement 
+<img width="979" height="546" alt="Image" src="https://github.com/user-attachments/assets/51fbc125-c61b-48c1-bf1c-819c1cbd1f26" />
 
 ### Page 6 — What Intelligence Is Missing?
 
 Intelligence-gap and priorities 
+<img width="978" height="545" alt="Image" src="https://github.com/user-attachments/assets/a0fe0116-5322-4080-b9e2-5b15063727d3" />
 
-### Page 6 — What Intelligence Is Missing?
+### Page 7 — Intelligence Report
 
 Hypothetical Intelligence Report
+<img width="981" height="546" alt="Image" src="https://github.com/user-attachments/assets/24a8ea7c-cb8f-4a71-8b18-91d32047c62b" />
 
 ---
 
