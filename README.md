@@ -115,15 +115,9 @@ Additional analytical fields were created to support intelligence analysis, incl
 
 SQL Server was used to investigate:
 
-* Incident volumes.
-* Geographic hotspots.
-* Repeat locations.
-* Waste-type patterns.
-* Year-on-year trends.
-* Enforcement activity.
-* Investigation performance.
-* Evidence availability.
-* Intelligence gaps.
+* Incident volumes | Geographic hotspots | Repeat locations | Waste-type patterns.
+* Year-on-year trends | Enforcement activity | Investigation performance.
+* Evidence availability | Intelligence gaps.
 
 ---
 
@@ -156,283 +150,31 @@ The dashboard was structured around five intelligence questions.
 
 ### Page 1 — What Is Happening?
 
-Executive overview of:
+Introduction - Imaginary project profile image showing how BI and Data Analytic could be used to solve Fly-tipping issues 
 
-* Total incidents
-* High/Critical incidents
-* Year-on-year movement
-* Clearance costs
-* Active investigations
-* Incident trends
-* Council activity
-* Severity
-* Waste categories
+### Page 2 — What Is Happening?
 
-### Page 2 — Where Is It Happening?
+Executive Intelligence overview
 
-Geographic intelligence covering:
+### Page 3 — Where Is It Happening?
 
-* Incident locations
-* Repeat hotspots
-* Council-level concentration
-* High-volume locations
-* Geographic incident patterns
+Geographic intelligence 
 
-### Page 3 — When & What Patterns Exist?
+### Page 4 — When & What Patterns Exist?
 
-Trend and pattern analysis covering:
+Trend and pattern Intelligence 
 
-* Monthly trends
-* Seasonal patterns
-* Day-of-week patterns
-* Time-of-day patterns
-* Waste-type trends
-* Incident and cost relationships
+### Page 5 — What Enforcement Intelligence Is Available?
 
-### Page 4 — What Enforcement Intelligence Is Available?
+Investigation & Enforcement 
 
-Investigation-focused analysis covering:
+### Page 6 — What Intelligence Is Missing?
 
-* Open investigations
-* Closed investigations
-* Investigation duration
-* Evidence availability
-* Enforcement outcomes
-* Case-level intelligence
+Intelligence-gap and priorities 
 
-### Page 5 — What Intelligence Is Missing?
+### Page 6 — What Intelligence Is Missing?
 
-Intelligence-gap analysis covering:
-
-* Missing evidence
-* CCTV availability
-* Vehicle identification
-* Intelligence reliability
-* Intelligence gaps by council
-* Areas requiring improved data capture
-
----
-
-# DAX Measures
-
-The project uses DAX to create analytical KPIs and intelligence indicators.
-
-### Core Measures
-
-```DAX
-Total Incidents =
-COUNTROWS(FlyTipIncidents)
-```
-
-```DAX
-Unique Locations =
-DISTINCTCOUNT(FlyTipIncidents[LocationID])
-```
-
-```DAX
-High Critical Incidents =
-CALCULATE(
-    [Total Incidents],
-    FlyTipIncidents[Severity] IN {"High", "Critical"}
-)
-```
-
-```DAX
-Total Clearance Cost =
-SUM(FlyTipIncidents[ClearanceCost])
-```
-
-```DAX
-Average Clearance Cost =
-AVERAGE(FlyTipIncidents[ClearanceCost])
-```
-
-### Trend Measures
-
-```DAX
-Previous Year Incidents =
-CALCULATE(
-    [Total Incidents],
-    SAMEPERIODLASTYEAR(DimDate[DateID])
-)
-```
-
-```DAX
-Incident YoY Change =
-[Total Incidents] - [Previous Year Incidents]
-```
-
-```DAX
-Incident YoY % =
-DIVIDE(
-    [Incident YoY Change],
-    [Previous Year Incidents]
-)
-```
-
-### Hotspot Measures
-
-```DAX
-Repeat Hotspots =
-COUNTROWS(
-    FILTER(
-        VALUES(FlyTipIncidents[LocationID]),
-        [Total Incidents] >= 10
-    )
-)
-```
-
-```DAX
-Hotspot Incidents =
-SUMX(
-    FILTER(
-        VALUES(FlyTipIncidents[LocationID]),
-        [Total Incidents] >= 10
-    ),
-    [Total Incidents]
-)
-```
-
-```DAX
-Hotspot Incident % =
-DIVIDE(
-    [Hotspot Incidents],
-    [Total Incidents]
-)
-```
-
-### Enforcement Measures
-
-```DAX
-Total Investigations =
-DISTINCTCOUNT(FactEnforcementCases[CaseID])
-```
-
-```DAX
-Active Investigations =
-CALCULATE(
-    [Total Investigations],
-    FactEnforcementCases[Status]
-        IN {"Open", "Under Investigation"}
-)
-```
-
-```DAX
-Completed Investigations =
-CALCULATE(
-    [Total Investigations],
-    FactEnforcementCases[Status] = "Closed"
-)
-```
-
-```DAX
-Investigation Completion % =
-DIVIDE(
-    [Completed Investigations],
-    [Total Investigations]
-)
-```
-
-```DAX
-Average Investigation Days =
-AVERAGE(
-    FactEnforcementCases[InvestigationDurationDays]
-)
-```
-
-### Intelligence Measures
-
-```DAX
-Intelligence Reports =
-DISTINCTCOUNT(
-    FactIntelligenceReport[IntelligenceID]
-)
-```
-
-```DAX
-Intelligence Gaps =
-CALCULATE(
-    [Intelligence Reports],
-    FactIntelligenceReport[IntelligenceGap] = "Yes"
-)
-```
-
-```DAX
-Intelligence Gap % =
-DIVIDE(
-    [Intelligence Gaps],
-    [Intelligence Reports]
-)
-```
-
-```DAX
-Evidence Available % =
-DIVIDE(
-    CALCULATE(
-        [Total Incidents],
-        FlyTipIncidents[EvidenceAvailable] = "Yes"
-    ),
-    [Total Incidents]
-)
-```
-
-```DAX
-CCTV Availability % =
-DIVIDE(
-    CALCULATE(
-        [Total Incidents],
-        FlyTipIncidents[CCTVAvailable] = "Yes"
-    ),
-    [Total Incidents]
-)
-```
-
-```DAX
-Vehicle Identification % =
-DIVIDE(
-    CALCULATE(
-        [Total Incidents],
-        FlyTipIncidents[VehicleInvolved] = "Yes"
-    ),
-    [Total Incidents]
-)
-```
-
-### Additional Intelligence Measures
-
-```DAX
-Average Monthly Incidents =
-AVERAGEX(
-    VALUES(DimDate[Month]),
-    [Total Incidents]
-)
-```
-
-```DAX
-Weekend Incidents % =
-DIVIDE(
-    CALCULATE(
-        [Total Incidents],
-        DimDate[DayType] = "Weekend"
-    ),
-    [Total Incidents]
-)
-```
-
-```DAX
-Incident Cost Per Case =
-DIVIDE(
-    [Total Clearance Cost],
-    [Total Incidents]
-)
-```
-
-```DAX
-Average Waste Volume =
-AVERAGE(
-    FlyTipIncidents[EstimatedWasteVolume]
-)
-```
+Hypothetical Intelligence Report
 
 ---
 
